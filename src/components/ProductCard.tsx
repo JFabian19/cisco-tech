@@ -3,7 +3,6 @@ import { Product } from '../types';
 interface ProductCardProps {
   key?: string;
   product: Product;
-  onAddToCart?: (product: Product) => void;
   onClick?: () => void;
 }
 

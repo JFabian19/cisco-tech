@@ -1,62 +1,51 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Header } from './components/Header';
 import { ProductCard } from './components/ProductCard';
 import { ProductDetails } from './components/ProductDetails';
-import { Cart } from './components/Cart';
 import { Hero } from './components/Hero';
-import { products } from './data';
-import { Category, Product, CartItem } from './types';
+import { Footer } from './components/Footer';
+import { products as fallbackProducts } from './data';
+import { fetchProductsFromSheet } from './services/googleSheets';
+import { Category, Product } from './types';
 
 export default function App() {
   const [selectedCategory, setSelectedCategory] = useState<Category | 'all'>('all');
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
-  const [isCartOpen, setIsCartOpen] = useState(false);
-  const [cartItems, setCartItems] = useState<CartItem[]>([]);
+  const [productList, setProductList] = useState<Product[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    async function loadData() {
+      // Definir la URL de tu hoja de cálculo exportada a CSV aquí o en un archivo .env
+      const csvUrl = import.meta.env.VITE_GOOGLE_SHEETS_CSV_URL;
+
+      let loadedProducts = fallbackProducts;
+
+      if (csvUrl) {
+        try {
+          const sheetProducts = await fetchProductsFromSheet(csvUrl);
+          if (sheetProducts && sheetProducts.length > 0) {
+            loadedProducts = sheetProducts;
+          }
+        } catch (err) {
+          console.error('Error cargando desde Google Sheets, usando productos por defecto:', err);
+        }
+      }
+
+      setProductList(loadedProducts.filter(p => p.enStock !== false));
+      setIsLoading(false);
+    }
+
+    loadData();
+  }, []);
 
   const filteredProducts = selectedCategory === 'all'
-    ? products
-    : products.filter(p => p.category === selectedCategory);
-
-  const handleAddToCart = (product: Product) => {
-    setCartItems(prev => {
-      const existingItem = prev.find(item => item.product.id === product.id);
-      if (existingItem) {
-        return prev.map(item =>
-          item.product.id === product.id
-            ? { ...item, quantity: item.quantity + 1 }
-            : item
-        );
-      }
-      return [...prev, { product, quantity: 1 }];
-    });
-    setIsCartOpen(true);
-  };
-
-  const handleUpdateQuantity = (productId: string, quantity: number) => {
-    if (quantity === 0) {
-      handleRemoveItem(productId);
-      return;
-    }
-    setCartItems(prev =>
-      prev.map(item =>
-        item.product.id === productId
-          ? { ...item, quantity }
-          : item
-      )
-    );
-  };
-
-  const handleRemoveItem = (productId: string) => {
-    setCartItems(prev => prev.filter(item => item.product.id !== productId));
-  };
-
-  const cartItemCount = cartItems.reduce((sum, item) => sum + item.quantity, 0);
+    ? productList
+    : productList.filter(p => p.category === selectedCategory);
 
   return (
-    <div className="min-h-screen bg-slate-50 font-sans text-slate-900">
+    <div className="min-h-screen bg-slate-50 font-sans text-slate-900 flex flex-col">
       <Header
-        cartItemCount={cartItemCount}
-        onOpenCart={() => setIsCartOpen(true)}
         selectedCategory={selectedCategory}
         onSelectCategory={setSelectedCategory}
       />
@@ -65,7 +54,6 @@ export default function App() {
         <ProductDetails
           product={selectedProduct}
           onBack={() => setSelectedProduct(null)}
-          onAddToCart={handleAddToCart}
           onProductSelect={setSelectedProduct}
         />
       ) : (
@@ -86,33 +74,30 @@ export default function App() {
               </p>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-              {filteredProducts.map(product => (
-                <ProductCard
-                  key={product.id}
-                  product={product}
-                  onAddToCart={handleAddToCart}
-                  onClick={() => setSelectedProduct(product)}
-                />
-              ))}
-            </div>
-
-            {filteredProducts.length === 0 && (
+            {isLoading ? (
+              <div className="text-center py-20">
+                <p className="text-slate-500 text-lg">Cargando productos...</p>
+              </div>
+            ) : filteredProducts.length === 0 ? (
               <div className="text-center py-20">
                 <p className="text-slate-500 text-lg">No se encontraron productos en esta categoría.</p>
+              </div>
+            ) : (
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                {filteredProducts.map(product => (
+                  <ProductCard
+                    key={product.id}
+                    product={product}
+                    onClick={() => setSelectedProduct(product)}
+                  />
+                ))}
               </div>
             )}
           </main>
         </>
       )}
 
-      <Cart
-        isOpen={isCartOpen}
-        onClose={() => setIsCartOpen(false)}
-        items={cartItems}
-        onUpdateQuantity={handleUpdateQuantity}
-        onRemoveItem={handleRemoveItem}
-      />
+      <Footer />
     </div>
   );
 }

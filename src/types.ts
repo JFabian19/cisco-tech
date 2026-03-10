@@ -11,6 +11,7 @@ export interface Product {
   specs?: string[];
   condition?: 'Nuevo' | 'Como Nuevo' | 'Usado' | 'Sellado' | 'Reacondicionado' | string;
   relatedIds?: string[];
+  enStock?: boolean;
 }
 
 export interface CartItem {

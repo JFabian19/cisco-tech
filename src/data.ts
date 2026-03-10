@@ -1,6 +1,62 @@
 import { Product } from './types';
 
 export const products: Product[] = [
+  // Productos de la imagen (fallback)
+  {
+    id: 'lu-img-1',
+    name: 'HP Elitebook 840 G4',
+    description: 'Procesador Intel core i5 de octava generación, memoria ram de 8gb, disco sólido de 240gb, pantalla HD de 14".',
+    price: 900.00,
+    category: 'laptops-usadas',
+    imageUrl: 'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&q=80&w=800',
+    specs: ['Intel Core i5 8th Gen', '8GB RAM', '240GB SSD', '14" HD'],
+    condition: 'Usado',
+    enStock: true
+  },
+  {
+    id: 'lu-img-2',
+    name: 'Lenovo Thinkpad E14',
+    description: 'Procesador core i7 de decima generación, memoria ram de 16gb, disco sólido M.2 de 512gb, tarjeta de video dedicado de 2Gb, pantalla FHD de 14".',
+    price: 1200.00,
+    category: 'laptops-usadas',
+    imageUrl: 'https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&q=80&w=800',
+    specs: ['Intel Core i7 10th Gen', '16GB RAM', '512GB M.2 SSD', 'Video 2GB', '14" FHD'],
+    condition: 'Usado',
+    enStock: true
+  },
+  {
+    id: 'lu-img-3',
+    name: 'Lenovo Thinkpad X1 Carbón',
+    description: 'Procesador Intel core i7 de sexta generación, memoria ram de 16gb, disco sólido M.2 de 256Gb, pantalla FHD de 14".',
+    price: 850.00,
+    category: 'laptops-usadas',
+    imageUrl: 'https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&q=80&w=800',
+    specs: ['Intel Core i7 6th Gen', '16GB RAM', '256GB M.2 SSD', '14" FHD'],
+    condition: 'Usado',
+    enStock: true
+  },
+  {
+    id: 'lu-img-4',
+    name: 'Laptop Lenovo Ideapad GAMING',
+    description: 'Procesador core i5 de décima generación, memoria ram de 16gb, disco sólido de 250gb + disco duro de 1Tb, pantalla FHD de 15.6", teclado iluminado, tarjeta de video dedicado GTX1650 de 4GB.',
+    price: 1800.00,
+    category: 'laptops-usadas',
+    imageUrl: 'https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&q=80&w=800',
+    specs: ['Intel Core i5 10th Gen', '16GB RAM', '250GB SSD + 1TB HDD', 'GTX1650 4GB', '15.6" FHD'],
+    condition: 'Usado',
+    enStock: true
+  },
+  {
+    id: 'lu-img-5',
+    name: 'HP Elitebook 640',
+    description: 'Procesador core i5 de octava generación, memoria ram de 8gb, disco sólido m.2. 256gb, pantalla de 14".',
+    price: 950.00,
+    category: 'laptops-usadas',
+    imageUrl: 'https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&q=80&w=800',
+    specs: ['Intel Core i5 8th Gen', '8GB RAM', '256GB M.2 SSD', '14"'],
+    condition: 'Usado',
+    enStock: true
+  },
   {
     id: 'ln-1',
     name: 'Dell XPS 15 (2024)',
@@ -11,7 +67,8 @@ export const products: Product[] = [
     imageUrl: 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&q=80&w=800',
     specs: ['Intel Core i7 13th Gen', '16GB RAM', '512GB SSD', '15.6" OLED 4K', 'Windows 11 Pro', 'TDP 45W'],
     condition: 'Sellado',
-    relatedIds: ['comp-1', 'serv-2']
+    relatedIds: ['comp-1', 'serv-2'],
+    enStock: true
   },
   {
     id: 'ln-2',
@@ -63,39 +120,54 @@ export const products: Product[] = [
   },
   {
     id: 'comp-1',
-    name: 'Samsung 980 PRO 1TB NVMe SSD',
-    description: 'Almacenamiento ultrarrápido PCIe Gen 4.0.',
-    fullDescription: 'Mejora enormemente el tiempo de carga de tu sistema operativo y programas esenciales con el disco sólido SSD de Samsung. Ofrece unas fantásticas tasas de lectura y escritura superiores a la competencia con su interfaz PCIe 4.0. Perfecto como actualización para laptops antiguas o modernas que buscan mayor capacidad sin sacrificar rapidez.',
-    price: 350.00,
+    name: 'Procesador AMD Ryzen 5 5600GT',
+    description: '3.6GHz Base / 4.6GHz Max, con gráficos integrados.',
+    fullDescription: 'Procesador veloz con potentes tarjetas gráficas integradas Radeon para un rendimiento de juego fluido en 1080p desde el primer momento. 6 núcleos, 12 hilos. Desbloqueado para hacer overclocking.',
+    price: 600.00,
     category: 'componentes',
-    imageUrl: 'https://images.unsplash.com/photo-1597852074816-d933c7d2b988?auto=format&fit=crop&q=80&w=800',
-    specs: ['1TB Capacidad', 'PCIe 4.0 NVMe', 'Lectura secuencia 7000 MB/s', 'Controladora Elpis'],
-    condition: 'Sellado',
-    relatedIds: ['serv-3']
+    imageUrl: '/ryzen-5600gt.jpg',
+    specs: ['Socket AM4', '6 Núcleos / 12 Hilos', 'Hasta 4.6 GHz', 'Gráficos Radeon'],
+    condition: 'Nuevo',
+    enStock: true,
+    relatedIds: ['comp-4']
   },
   {
     id: 'comp-2',
-    name: 'Corsair Vengeance LPX 16GB (2x8GB) DDR4',
-    description: 'Memoria RAM de alto rendimiento para escritorio.',
-    fullDescription: 'Fabricadas para los entusiastas y profesionales de computadoras de escritorio. Disipador de calor de aluminio de alta pureza que permite una mejor disipación, un PCB de ocho capas que maneja el calor y otorga margen adicional para overclocking.',
-    price: 180.00,
+    name: 'Procesador Intel Core i5 12400',
+    description: '2.50GHz Base / 4.40GHz Max, 18MB Caché, LGA 1700.',
+    fullDescription: 'Experimenta el rendimiento superior con el procesador Intel de 12ª generación, optimizado para la multitarea, creación de contenido y juegos de nivel medio-alto sin cuellos de botella.',
+    price: 850.00,
     category: 'componentes',
-    imageUrl: 'https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&q=80&w=800',
-    specs: ['16GB (2x8GB)', 'DDR4 3200MHz', 'CL16', 'Perfil XMP 2.0'],
+    imageUrl: '/intel-i5.jpg',
+    specs: ['Socket LGA 1700', '6 Núcleos / 12 Hilos', '18 MB Intel Smart Cache', 'PCIe 5.0 soportado'],
     condition: 'Nuevo',
-    relatedIds: ['comp-3', 'serv-3']
+    enStock: true,
+    relatedIds: ['comp-4']
   },
   {
     id: 'comp-3',
-    name: 'NVIDIA GeForce RTX 4060',
-    description: 'Gráficos de última generación para gaming y diseño.',
-    fullDescription: 'Disfruta de la mejor experiencia de juegos con Ray Tracing activado y la inteligencia artificial (DLSS 3) que duplica tus cuadros por segundo. Ya sea que streamees contenido, realices diseño 3D o edites videos, esta gráfica ofrece un consumo reducido pero una extrema agilidad de procesamiento.',
-    price: 1150.00,
+    name: 'Combo Teclado y Mouse Logitech MK120',
+    description: 'Combo de teclado y mouse duradero con conexión USB.',
+    fullDescription: 'Un combo excelente a un gran precio. Diseño de tamaño estándar duradero, resistente a salpicaduras. Las teclas fáciles de leer permiten una escritura silenciosa. El mouse óptico ofrece precisión.',
+    price: 60.00,
     category: 'componentes',
-    imageUrl: 'https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&q=80&w=800',
-    specs: ['8GB GDDR6', 'DLSS 3', 'Ray Tracing', 'NVIDIA Encoder de 8va generación'],
-    condition: 'Sellado',
-    relatedIds: ['comp-2', 'serv-3']
+    imageUrl: '/logitech-mk120.jpg',
+    specs: ['Conexión por cable USB', 'Resistente a salpicaduras', 'Teclado numérico completo', 'Diseño ambidiestro'],
+    condition: 'Nuevo',
+    enStock: true
+  },
+  {
+    id: 'comp-4',
+    name: 'Placa Madre Gigabyte H610M',
+    description: 'Socket LGA 1700, ideal para procesadores Intel de 12va generación.',
+    fullDescription: 'Placa base micro ATX confiable. Cuenta con LAN Gigabit exclusiva para juegos, condensadores de audio de alta calidad y funciones de refrigeración integradas. Compatible con las nuevas memorias DDR4.',
+    price: 325.00,
+    category: 'componentes',
+    imageUrl: '/gigabyte-h610m.jpg',
+    specs: ['Socket LGA 1700', 'Soporta Intel 12th/13th Gen', 'Micro ATX', 'DDR4 y PCIe 4.0'],
+    condition: 'Nuevo',
+    enStock: true,
+    relatedIds: ['comp-2']
   },
   {
     id: 'serv-1',

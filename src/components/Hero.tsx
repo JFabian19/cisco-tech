@@ -4,24 +4,17 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const slides = [
     {
         id: 1,
-        title: 'Gran Promoción de Verano',
-        description: 'Hasta 20% de descuento en mantenimiento preventivo para tu laptop.',
-        imageUrl: 'https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&q=80&w=1200',
-        tag: 'Promoción'
+        title: 'Conoce a Richard: Experto en Hardware',
+        description: 'Especialista en placas base, microelectrónica y diagnóstico avanzado. Richard es el cofundador de la tienda y se asegura de que cada equipo vuelva a la vida con precisión milimétrica y la mejor calidad de componentes.',
+        imageUrl: 'https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&q=80&w=1200',
+        tag: 'Nuestro Equipo'
     },
     {
         id: 2,
-        title: 'Consejo Tech: Cuida tu Batería',
-        description: 'Evita que tu laptop llegue al 0% de batería para prolongar su vida útil. Conéctala al 20%.',
-        imageUrl: 'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&q=80&w=1200',
-        tag: 'Consejo'
-    },
-    {
-        id: 3,
-        title: 'Nuevo Servicio: Armado de PC',
-        description: 'Armamos tu PC Gamer o de trabajo pieza por pieza a tu medida y presupuesto.',
-        imageUrl: 'https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&q=80&w=1200',
-        tag: 'Nuevo Servicio'
+        title: 'Conoce a Carlos: Maestría en Software',
+        description: 'Director técnico y apasionado por la optimización de sistemas. Carlos resuelve al instante problemas de rendimiento, instalaciones complejas, eliminación de virus y recuperación de datos que creías perdidos.',
+        imageUrl: 'https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=1200',
+        tag: 'Nuestro Equipo'
     }
 ];
 
@@ -31,7 +24,7 @@ export function Hero() {
     useEffect(() => {
         const timer = setInterval(() => {
             setCurrentSlide((prev) => (prev + 1) % slides.length);
-        }, 4500); // 4.5 seconds
+        }, 12000); // 12 seconds
 
         return () => clearInterval(timer);
     }, []);
