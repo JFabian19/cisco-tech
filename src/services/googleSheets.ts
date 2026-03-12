@@ -62,13 +62,14 @@ export async function fetchProductsFromSheet(csvUrl: string): Promise<Product[]>
 
         // Map headers to indices
         const indices = {
+            id: headers.findIndex(h => h === 'id'),
             titulo: headers.findIndex(h => h.includes('titulo') || h.includes('título') || h.includes('name')),
-            descripcion: headers.findIndex(h => h.includes('descripcion') || h.includes('descripción')),
-            precio: headers.findIndex(h => h.includes('precio')),
+            descripcion: headers.findIndex(h => h.includes('descripcion') || h.includes('descripción') || h.includes('description')),
+            precio: headers.findIndex(h => h.includes('precio') || h.includes('price')),
             enStock: headers.findIndex(h => h.includes('en stock') || h.includes('stock')),
-            condicion: headers.findIndex(h => h.includes('usado o nuevo') || h.includes('condicion') || h.includes('condición')),
-            categoria: headers.findIndex(h => h.includes('categoria') || h.includes('categoría')),
-            imagenUrl: headers.findIndex(h => h.includes('imagen') || h.includes('url')),
+            condicion: headers.findIndex(h => h.includes('usado o nuevo') || h.includes('condicion') || h.includes('condición') || h.includes('condition')),
+            categoria: headers.findIndex(h => h.includes('categoria') || h.includes('categoría') || h.includes('category')),
+            imagenUrl: headers.findIndex(h => h.includes('imagen') || h.includes('url') || h.includes('image')),
         };
 
         const products: Product[] = [];
@@ -82,8 +83,8 @@ export async function fetchProductsFromSheet(csvUrl: string): Promise<Product[]>
             const precioStr = indices.precio >= 0 ? row[indices.precio]?.replace(/[^0-9.]/g, '') : '0';
             const precio = parseFloat(precioStr) || 0;
 
-            const enStockStr = indices.enStock >= 0 ? row[indices.enStock]?.toLowerCase().trim() : 'true';
-            const enStock = enStockStr === 'true' || enStockStr === 'sí' || enStockStr === 'si' || enStockStr === '1';
+            const enStockRaw = indices.enStock >= 0 ? row[indices.enStock]?.trim().toLowerCase() : '';
+            const enStock = !enStockRaw ? true : (enStockRaw === 'true' || enStockRaw === 'sí' || enStockRaw === 'si' || enStockRaw === '1');
 
             const condicion = indices.condicion >= 0 ? row[indices.condicion]?.trim() : 'Usado';
 
@@ -101,9 +102,10 @@ export async function fetchProductsFromSheet(csvUrl: string): Promise<Product[]>
             }
 
             const imageUrl = indices.imagenUrl >= 0 ? row[indices.imagenUrl]?.trim() : '';
+            const customId = indices.id >= 0 ? row[indices.id]?.trim() : '';
 
             products.push({
-                id: `sheet-${i}`,
+                id: customId || `sheet-${i}`,
                 name: titulo,
                 description: descripcion,
                 price: precio,

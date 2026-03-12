@@ -1,8 +1,10 @@
+import { Facebook } from 'lucide-react';
+
 export function Footer() {
     return (
         <footer className="bg-slate-900 text-slate-300 py-12 mt-auto">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
                     <div>
                         <div className="flex items-center gap-3 mb-4 opacity-90">
                             <img src="/logo.png" alt="Cisco Tech Logo" className="h-8 w-auto object-contain" />
@@ -33,6 +35,20 @@ export function Footer() {
                             <li><a href="#" className="hover:text-white transition-colors">Catálogo</a></li>
                             <li><a href="#" className="hover:text-white transition-colors">Servicios</a></li>
                         </ul>
+                    </div>
+                    <div>
+                        <h3 className="text-white font-semibold mb-4">Síguenos</h3>
+                        <div className="flex gap-4">
+                            <a 
+                                href="https://www.facebook.com/ciscotechsolution/" 
+                                target="_blank" 
+                                rel="noopener noreferrer" 
+                                className="text-slate-400 hover:text-blue-500 transition-colors" 
+                                aria-label="Facebook"
+                            >
+                                <Facebook size={24} />
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <div className="border-t border-slate-800 mt-12 pt-8 text-sm text-center text-slate-500">

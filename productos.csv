@@ -1,0 +1,13 @@
+id,name,price,category,condition,enStock,description
+"lu-img-1","HP Elitebook 840 G4",900,"laptops-usadas","Usado",true,"Procesador Intel core i5 de octava generación, memoria ram de 8gb, disco sólido de 240gb, pantalla HD de 14""."
+"lu-img-2","Lenovo Thinkpad E14",1200,"laptops-usadas","Usado",true,"Procesador core i7 de decima generación, memoria ram de 16gb, disco sólido M.2 de 512gb, tarjeta de video dedicado de 2Gb, pantalla FHD de 14""."
+"lu-img-3","Lenovo Thinkpad X1 Carbón",850,"laptops-usadas","Usado",true,"Procesador Intel core i7 de sexta generación, memoria ram de 16gb, disco sólido M.2 de 256Gb, pantalla FHD de 14""."
+"lu-img-4","Laptop Lenovo Ideapad GAMING",1800,"laptops-usadas","Usado",true,"Procesador core i5 de décima generación, memoria ram de 16gb, disco sólido de 250gb + disco duro de 1Tb, pantalla FHD de 15.6"", teclado iluminado, tarjeta de video dedicado GTX1650 de 4GB."
+"lu-img-5","HP Elitebook 640",950,"laptops-usadas","Usado",true,"Procesador core i5 de octava generación, memoria ram de 8gb, disco sólido m.2. 256gb, pantalla de 14""."
+"comp-1","Procesador AMD Ryzen 5 5600GT",600,"componentes","Nuevo",true,"3.6GHz Base / 4.6GHz Max, con gráficos integrados."
+"comp-2","Procesador Intel Core i5 12400",850,"componentes","Nuevo",true,"2.50GHz Base / 4.40GHz Max, 18MB Caché, LGA 1700."
+"comp-3","Combo Teclado y Mouse Logitech MK120",60,"componentes","Nuevo",true,"Combo de teclado y mouse duradero con conexión USB."
+"comp-4","Placa Madre Gigabyte H610M",325,"componentes","Nuevo",true,"Socket LGA 1700, ideal para procesadores Intel de 12va generación."
+"serv-1","Mantenimiento Preventivo (Laptop/PC)",0,"servicios","",,"Limpieza interna, cambio de pasta térmica y optimización de sistema."
+"serv-2","Instalación de Sistema Operativo",0,"servicios","",,"Instalación limpia de Windows 10/11 o Linux con drivers y programas básicos."
+"serv-3","Diagnóstico de Hardware",0,"servicios","",,"Revisión completa para detectar fallas en componentes (Se descuenta si se realiza la reparación)."

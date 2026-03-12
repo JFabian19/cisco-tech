@@ -57,67 +57,7 @@ export const products: Product[] = [
     condition: 'Usado',
     enStock: true
   },
-  {
-    id: 'ln-1',
-    name: 'Dell XPS 15 (2024)',
-    description: 'Laptop premium para profesionales y creadores de contenido.',
-    fullDescription: 'La Dell XPS 15 es la laptop perfecta para diseñadores, editores de video y creativos. Con su asombrosa pantalla OLED 4K y un procesador Intel Core i7 de 13ª generación, ofrece un rendimiento extraordinario para las tareas más pesadas. Su elegante cuerpo de aluminio mecanizado CNC y el reposamanos de fibra de carbono garantizan durabilidad y poco peso.',
-    price: 7200.00,
-    category: 'laptops-nuevas',
-    imageUrl: 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&q=80&w=800',
-    specs: ['Intel Core i7 13th Gen', '16GB RAM', '512GB SSD', '15.6" OLED 4K', 'Windows 11 Pro', 'TDP 45W'],
-    condition: 'Sellado',
-    relatedIds: ['comp-1', 'serv-2'],
-    enStock: true
-  },
-  {
-    id: 'ln-2',
-    name: 'MacBook Pro 14" M3',
-    description: 'Potencia y eficiencia inigualable con el chip M3 Pro.',
-    fullDescription: 'Descubre en la MacBook Pro de 14 pulgadas un mundo de posibilidades gracias al chip M3 Pro de Apple. Procesa gráficos pesados, compila código y edita vídeo sin interrupciones con una batería que dura todo el día. Disfruta de la vibrante pantalla Liquid Retina XDR con un contraste impresionante.',
-    price: 7600.00,
-    category: 'laptops-nuevas',
-    imageUrl: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&q=80&w=800',
-    specs: ['Apple M3 Pro', '18GB Unified Memory', '512GB SSD', '14.2" Liquid Retina XDR', 'Teclado Magic Keyboard Español'],
-    condition: 'Nuevo',
-    relatedIds: ['serv-2']
-  },
-  {
-    id: 'ln-3',
-    name: 'Lenovo ThinkPad X1 Carbon',
-    description: 'La mejor laptop empresarial, ultraligera y resistente.',
-    fullDescription: 'Lidera tu negocio con la legendaria durabilidad de la familia ThinkPad. El modelo X1 Carbon ofrece rendimiento top con un chasis que aguanta certificaciones de grado militar. Además, incluye herramientas de seguridad avanzadas como el lector de huellas match-on-chip y certificación de ThinkShield.',
-    price: 5500.00,
-    category: 'laptops-nuevas',
-    imageUrl: 'https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&q=80&w=800',
-    specs: ['Intel Core i5 13th Gen', '16GB RAM', '256GB SSD', '14" WUXGA', 'Certificación MIL-STD 810H'],
-    condition: 'Nuevo',
-    relatedIds: ['comp-1', 'serv-2']
-  },
-  {
-    id: 'lu-1',
-    name: 'HP EliteBook 840 G6 (Usada)',
-    description: 'Excelente estado, ideal para estudiantes y trabajo de oficina.',
-    fullDescription: 'Equipo de serie empresarial reacondicionado que garantiza confiabilidad a un super precio. Ideal para profesionales independientes y universitarios. Excelente recorrido del teclado, panel antibrillo y chasis de aluminio. Todo fue probado exhaustivamente y se encuentra en óptimas condiciones.',
-    price: 1400.00,
-    category: 'laptops-usadas',
-    imageUrl: 'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&q=80&w=800',
-    specs: ['Intel Core i5 8th Gen', '8GB RAM', '256GB SSD', '14" FHD', 'Windows 10 Pro'],
-    condition: 'Como Nuevo',
-    relatedIds: ['comp-1', 'serv-1', 'serv-2']
-  },
-  {
-    id: 'lu-2',
-    name: 'Dell Latitude 7400 (Usada)',
-    description: 'Batería nueva, rendimiento sólido para el día a día.',
-    fullDescription: 'Una laptop usada pero con la batería recién reemplazada. Posee una gran relación calidad/precio con un potente procesador i7 de octava generación y 16GB de memoria RAM, ideal para tener bastantes ventanas abiertas sin sufrir ralentizaciones. Se le aplicó pasta térmica premium y está lista para arrancar.',
-    price: 1600.00,
-    category: 'laptops-usadas',
-    imageUrl: 'https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&q=80&w=800',
-    specs: ['Intel Core i7 8th Gen', '16GB RAM', '512GB SSD', '14" FHD', 'Batería Nueva'],
-    condition: 'Usado',
-    relatedIds: ['comp-1', 'serv-1']
-  },
+
   {
     id: 'comp-1',
     name: 'Procesador AMD Ryzen 5 5600GT',

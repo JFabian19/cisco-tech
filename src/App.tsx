@@ -4,6 +4,8 @@ import { ProductCard } from './components/ProductCard';
 import { ProductDetails } from './components/ProductDetails';
 import { Hero } from './components/Hero';
 import { Footer } from './components/Footer';
+import { WhatsAppButton } from './components/WhatsAppButton';
+import { LocationSection } from './components/LocationSection';
 import { products as fallbackProducts } from './data';
 import { fetchProductsFromSheet } from './services/googleSheets';
 import { Category, Product } from './types';
@@ -25,7 +27,18 @@ export default function App() {
         try {
           const sheetProducts = await fetchProductsFromSheet(csvUrl);
           if (sheetProducts && sheetProducts.length > 0) {
-            loadedProducts = sheetProducts;
+            loadedProducts = sheetProducts.map(sp => {
+              const defaultImage = 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&q=80&w=800';
+              if (!sp.imageUrl || sp.imageUrl === defaultImage) {
+                const fallback = fallbackProducts.find(fp => 
+                  fp.name.toLowerCase() === sp.name.toLowerCase()
+                );
+                if (fallback && fallback.imageUrl) {
+                  return { ...sp, imageUrl: fallback.imageUrl };
+                }
+              }
+              return sp;
+            });
           }
         } catch (err) {
           console.error('Error cargando desde Google Sheets, usando productos por defecto:', err);
@@ -97,7 +110,9 @@ export default function App() {
         </>
       )}
 
+      <LocationSection />
       <Footer />
+      <WhatsAppButton />
     </div>
   );
 }
