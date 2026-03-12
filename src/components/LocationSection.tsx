@@ -16,7 +16,7 @@ export function LocationSection() {
           {/* Información de contacto */}
           <div className="p-8 lg:p-12 flex flex-col justify-center space-y-8">
             <div>
-              <h3 className="text-2xl font-bold text-slate-800 mb-6">CiscoTech Solution IT</h3>
+              <h3 className="text-2xl font-bold text-slate-800 mb-6">CiscoTech Solution TI</h3>
               
               <ul className="space-y-6">
                 <li className="flex items-start">
