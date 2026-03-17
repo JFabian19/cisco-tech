@@ -76,7 +76,10 @@ export async function fetchProductsFromSheet(csvUrl: string): Promise<Product[]>
 
         for (let i = 1; i < rows.length; i++) {
             const row = rows[i];
-            if (!row || row.length === 0 || (!row[indices.titulo] && !row[indices.precio])) continue;
+            
+            const isPromo = indices.categoria >= 0 && row[indices.categoria]?.toLowerCase().includes('promo');
+            
+            if (!row || row.length === 0 || (!row[indices.titulo] && !row[indices.precio] && !isPromo)) continue;
 
             const titulo = indices.titulo >= 0 ? row[indices.titulo]?.trim() : '';
             const descripcion = indices.descripcion >= 0 ? row[indices.descripcion]?.trim() : '';
@@ -94,6 +97,7 @@ export async function fetchProductsFromSheet(csvUrl: string): Promise<Product[]>
                 if (catStr.includes('nueva') || catStr.includes('nuevo')) category = 'laptops-nuevas';
                 else if (catStr.includes('comp')) category = 'componentes';
                 else if (catStr.includes('serv')) category = 'servicios';
+                else if (catStr.includes('promo')) category = 'promociones';
             } else {
                 // Infer from condition
                 if (condicion.toLowerCase().includes('nuevo') || condicion.toLowerCase().includes('nueva')) {

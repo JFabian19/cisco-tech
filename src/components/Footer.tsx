@@ -13,7 +13,7 @@ export function Footer() {
                                     CiscoTech
                                 </span>
                                 <span className="text-[9px] font-bold tracking-[0.2em] text-[#3b82f6] uppercase leading-tight mt-0.5">
-                                    Solution IT
+                                    Solution TI
                                 </span>
                             </div>
                         </div>

@@ -1,4 +1,4 @@
-export type Category = 'laptops-nuevas' | 'laptops-usadas' | 'componentes' | 'servicios';
+export type Category = 'laptops-nuevas' | 'laptops-usadas' | 'componentes' | 'servicios' | 'promociones';
 
 export interface Product {
   id: string;

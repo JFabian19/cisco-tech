@@ -53,7 +53,7 @@ export default function App() {
   }, []);
 
   const filteredProducts = selectedCategory === 'all'
-    ? productList
+    ? productList.filter(p => p.category !== 'promociones')
     : productList.filter(p => p.category === selectedCategory);
 
   return (
@@ -71,7 +71,7 @@ export default function App() {
         />
       ) : (
         <>
-          <Hero />
+          <Hero promotions={productList.filter(p => p.category === 'promociones' && p.imageUrl).map(p => p.imageUrl)} />
 
           <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="mb-8">

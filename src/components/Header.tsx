@@ -27,7 +27,7 @@ export function Header({ selectedCategory, onSelectCategory }: HeaderProps) {
                 CiscoTech
               </span>
               <span className="text-[11px] font-bold tracking-[0.2em] text-[#0060A9] uppercase leading-tight mt-0.5">
-                Solution IT
+                Solution TI
               </span>
             </div>
           </div>
