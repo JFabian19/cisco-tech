@@ -7,8 +7,8 @@ interface HeroProps {
 
 export function Hero({ promotions }: HeroProps) {
     const defaultSlides = [
-        'https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&q=80&w=1200',
-        'https://images.unsplash.com/photo-1607082350899-7e105aa886ae?auto=format&fit=crop&q=80&w=1200'
+        '/promo 1.jpg',
+        '/promo 2.jpg'
     ];
 
     const slides = promotions && promotions.length > 0 ? promotions : defaultSlides;
