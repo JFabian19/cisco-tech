@@ -1,0 +1,2402 @@
+<!DOCTYPE html><html lang="es"><head>
+    
+      
+  <meta charset="utf-8">
+  <meta name="theme-color" content="#f9f2e8">
+
+
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+
+  <title>Procesador AMD</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+        <link rel="canonical" href="https://corpmagicsystem.com/3743-procesador-amd">
+    
+                  <link rel="alternate" href="https://corpmagicsystem.com/3743-procesador-amd" hreflang="es">
+            
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+
+  <link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1727729679">
+  <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1727729679">
+
+
+
+    <link rel="stylesheet" href="https://corpmagicsystem.com/themes/ZOneTheme/assets/css/theme.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://corpmagicsystem.com/modules/blockreassurance/views/dist/front.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://corpmagicsystem.com/themes/ZOneTheme/modules/ps_facetedsearch/views/dist/front.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://corpmagicsystem.com/js/jquery/ui/themes/base/minified/jquery-ui.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://corpmagicsystem.com/js/jquery/ui/themes/base/minified/jquery.ui.theme.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://corpmagicsystem.com/modules/ps_imageslider/css/homeslider.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://corpmagicsystem.com/themes/ZOneTheme/assets/css/custom.css" type="text/css" media="all">
+
+
+
+
+    <script type="text/javascript">
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"$ 0,00"},"total_including_tax":{"type":"total","label":"Total (impuestos incl.)","amount":0,"value":"$ 0,00"},"total_excluding_tax":{"type":"total","label":"Total (impuestos excl.)","amount":0,"value":"$ 0,00"}},"subtotals":{"products":{"type":"products","label":"Subtotal","amount":0,"value":"$ 0,00"},"discounts":null,"shipping":{"type":"shipping","label":"Comisi\u00f3n pago con tarjeta","amount":0,"value":"Seg\u00fan forma de pago"},"tax":null},"products_count":0,"summary_string":"0 art\u00edculos","vouchers":{"allowed":0,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"D\u00f3lar estadounidense","iso_code":"USD","iso_code_num":"840","sign":"$"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Espa\u00f1ol (Spanish)","iso_code":"es","locale":"es-ES","language_code":"es","is_rtl":"0","date_format_lite":"d\/m\/Y","date_format_full":"d\/m\/Y H:i:s","id":1},"page":{"title":"","canonical":"https:\/\/corpmagicsystem.com\/3743-procesador-amd","meta":{"title":"Procesador AMD","description":"","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-es":true,"lang-rtl":false,"country-PE":true,"currency-USD":true,"layout-left-column":true,"page-category":true,"tax-display-enabled":true,"category-id-3743":true,"category-Procesador AMD":true,"category-id-parent-2":true,"category-depth-level-2":true},"admin_notifications":[]},"shop":{"name":"Corp Magic System","logo":"\/img\/smart-tech-logo-1727370271.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/corpmagicsystem.com\/","current_url":"https:\/\/corpmagicsystem.com\/3743-procesador-amd","shop_domain_url":"https:\/\/corpmagicsystem.com","img_ps_url":"https:\/\/corpmagicsystem.com\/img\/","img_cat_url":"https:\/\/corpmagicsystem.com\/img\/c\/","img_lang_url":"https:\/\/corpmagicsystem.com\/img\/l\/","img_prod_url":"https:\/\/corpmagicsystem.com\/img\/p\/","img_manu_url":"https:\/\/corpmagicsystem.com\/img\/m\/","img_sup_url":"https:\/\/corpmagicsystem.com\/img\/su\/","img_ship_url":"https:\/\/corpmagicsystem.com\/img\/s\/","img_store_url":"https:\/\/corpmagicsystem.com\/img\/st\/","img_col_url":"https:\/\/corpmagicsystem.com\/img\/co\/","img_url":"https:\/\/corpmagicsystem.com\/themes\/ZOneTheme\/assets\/img\/","css_url":"https:\/\/corpmagicsystem.com\/themes\/ZOneTheme\/assets\/css\/","js_url":"https:\/\/corpmagicsystem.com\/themes\/ZOneTheme\/assets\/js\/","pic_url":"https:\/\/corpmagicsystem.com\/upload\/","pages":{"address":"https:\/\/corpmagicsystem.com\/direccion","addresses":"https:\/\/corpmagicsystem.com\/direcciones","authentication":"https:\/\/corpmagicsystem.com\/iniciar-sesion","cart":"https:\/\/corpmagicsystem.com\/carrito","category":"https:\/\/corpmagicsystem.com\/index.php?controller=category","cms":"https:\/\/corpmagicsystem.com\/index.php?controller=cms","contact":"https:\/\/corpmagicsystem.com\/contactenos","discount":"https:\/\/corpmagicsystem.com\/descuento","guest_tracking":"https:\/\/corpmagicsystem.com\/seguimiento-pedido-invitado","history":"https:\/\/corpmagicsystem.com\/historial-compra","identity":"https:\/\/corpmagicsystem.com\/datos-personales","index":"https:\/\/corpmagicsystem.com\/","my_account":"https:\/\/corpmagicsystem.com\/mi-cuenta","order_confirmation":"https:\/\/corpmagicsystem.com\/confirmacion-pedido","order_detail":"https:\/\/corpmagicsystem.com\/index.php?controller=order-detail","order_follow":"https:\/\/corpmagicsystem.com\/seguimiento-pedido","order":"https:\/\/corpmagicsystem.com\/pedido","order_return":"https:\/\/corpmagicsystem.com\/index.php?controller=order-return","order_slip":"https:\/\/corpmagicsystem.com\/facturas-abono","pagenotfound":"https:\/\/corpmagicsystem.com\/pagina-no-encontrada","password":"https:\/\/corpmagicsystem.com\/recuperar-contrase\u00f1a","pdf_invoice":"https:\/\/corpmagicsystem.com\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/corpmagicsystem.com\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/corpmagicsystem.com\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/corpmagicsystem.com\/productos-rebajados","product":"https:\/\/corpmagicsystem.com\/index.php?controller=product","search":"https:\/\/corpmagicsystem.com\/busqueda","sitemap":"https:\/\/corpmagicsystem.com\/mapa del sitio","stores":"https:\/\/corpmagicsystem.com\/tiendas","supplier":"https:\/\/corpmagicsystem.com\/proveedor","register":"https:\/\/corpmagicsystem.com\/iniciar-sesion?create_account=1","order_login":"https:\/\/corpmagicsystem.com\/pedido?login=1"},"alternative_langs":{"es":"https:\/\/corpmagicsystem.com\/3743-procesador-amd"},"theme_assets":"\/themes\/ZOneTheme\/assets\/","actions":{"logout":"https:\/\/corpmagicsystem.com\/?mylogout="},"no_picture_image":{"bySize":{"cart_default":{"url":"https:\/\/corpmagicsystem.com\/img\/p\/es-default-cart_default.jpg","width":90,"height":90},"small_default":{"url":"https:\/\/corpmagicsystem.com\/img\/p\/es-default-small_default.jpg","width":90,"height":90},"home_default":{"url":"https:\/\/corpmagicsystem.com\/img\/p\/es-default-home_default.jpg","width":278,"height":278},"medium_default":{"url":"https:\/\/corpmagicsystem.com\/img\/p\/es-default-medium_default.jpg","width":455,"height":455},"large_default":{"url":"https:\/\/corpmagicsystem.com\/img\/p\/es-default-large_default.jpg","width":800,"height":800}},"small":{"url":"https:\/\/corpmagicsystem.com\/img\/p\/es-default-cart_default.jpg","width":90,"height":90},"medium":{"url":"https:\/\/corpmagicsystem.com\/img\/p\/es-default-home_default.jpg","width":278,"height":278},"large":{"url":"https:\/\/corpmagicsystem.com\/img\/p\/es-default-large_default.jpg","width":800,"height":800},"legend":""}},"configuration":{"display_taxes_label":true,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":true},"quantity_discount":{"type":"discount","label":"Descuento"},"voucher_enabled":0,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Inicio","url":"https:\/\/corpmagicsystem.com\/"},{"title":"Procesador AMD","url":"https:\/\/corpmagicsystem.com\/3743-procesador-amd"}],"count":2},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1774126860,"static_token":"fbf6626cc9eb8516617cb338ed5977ff","token":"6294675220e3d3ea5b0ffd547cb0073f"};
+        var psr_icon_color = "#F19D76";
+        var varCustomActionAddToCart = 1;
+        var varCustomActionAddVoucher = 1;
+        var varGetFinalDateController = "https:\/\/corpmagicsystem.com\/module\/zonethememanager\/getFinalDate";
+        var varGetFinalDateMiniatureController = "https:\/\/corpmagicsystem.com\/module\/zonethememanager\/getFinalDateMiniature";
+        var varMobileStickyMenu = 0;
+        var varPSAjaxCart = 1;
+        var varPageProgressBar = 1;
+        var varProductCommentGradeController = "https:\/\/corpmagicsystem.com\/module\/zonethememanager\/CommentGrade";
+        var varProductPendingRefreshIcon = 1;
+        var varSidebarCart = 1;
+        var varStickyMenu = 1;
+      </script>
+
+
+
+
+
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,600|Poppins:400,600&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">
+<style type="text/css">a:hover, .btn-link:hover, .page-link:hover, .btn-teriary:hover, .btn.btn-teriary:hover, .ui-autocomplete.ui-menu .ui-menu-item .ui-state-focus, .ui-autocomplete.ui-menu .ui-menu-item .ui-state-hover, .dropdown .expand-more:hover, .dropdown a.expand-more:hover, .dropdown-item:hover, .dropdown-item:focus, section.checkout-step .step-number, .page-my-account #content .links a:hover, .active-filters .filter-block .material-icons, .product-price, .price-total, .product-name a:hover, a.product-name:hover, .product-list .product-miniature .grid-hover-btn a, .main-product-details .product-cover .layer .zoom-in, #product-modal .arrows, .st-menu-close:hover, .aone-slideshow .nivoSlider .nivo-directionNav .nivo-prevNav, .aone-slideshow .nivoSlider .nivo-directionNav .nivo-nextNav, #header .left-nav-trigger .left-nav-icon:hover, .feature a:hover, .feature2 .material-icons, .feature2 .fa {color: #d01000} .custom-checkbox .check-shape.color .check-circle, .custom-radio .check-shape.color .check-circle, .custom-checkbox input[type="checkbox"]:hover + .check-shape, .custom-radio input[type="radio"]:hover + .check-shape, .custom-checkbox input[type="checkbox"]:checked + .check-shape, .custom-radio input[type="radio"]:checked + .check-shape, .category-tree > ul > li > a:hover:before, .main-product-details .product-images li.thumb-container .thumb.selected, .product-swatches .swatches-list > li.selected > span.color .check-circle, #product-modal .product-images img.selected, .anav-top .acategory-content .category-subs li a:hover:before, .aone-slideshow .nivoSlider .nivo-controlNav a.active, .banner2 a:before {border-color: #d01000} .custom-checkbox input[type="checkbox"]:checked + .check-shape, .custom-radio input[type="radio"]:checked + .check-shape, .modal .modal-header .close:hover, .category-tree > ul > li > a:hover:before, .discount-percentage, .discount-amount, .product-flags .product-flag.discount span, .product-flags .product-flag.on-sale span, .add-to-cart.added:after, .main-product-details .scroll-box-arrows .left, .main-product-details .scroll-box-arrows .right, .cart-preview .cart-header .cart-products-count, .slick-prev, .slick-next, .slick-dots li button, .anav-top .amenu-link > sup, .anav-top .acategory-content .category-subs li a:hover:before, .aone-slideshow .nivoSlider .nivo-controlNav a, .aone-popupnewsletter button.close, #header .sticky-icon-cart .cart-products-count, #scrollTopButton .scroll-button {background-color: #d01000} .header-banner a:hover, .header-nav a:not(.dropdown-item):hover, .main-header a:not(.dropdown-item):not(.btn-primary):hover, .header-nav .dropdown .expand-more:hover {color: #c21f37} .header-main-menu, .mobile-amega-menu {background-color: #000000} .anav-top .amenu-link {color: #ffffff} .anav-mobile .amenu-link .mobile-toggle-plus .caret-down-icon {border-top-color: #ffffff} .anav-mobile .amenu-link .mobile-toggle-plus .caret-down-icon {border-bottom-color: #ffffff} .anav-top .amenu-item:hover .amenu-link, .anav-top .amenu-link:hover {color: #3b3b3b} .anav-top .adropdown a:hover, .anav-top .acategory-content .category-title a:hover, .anav-top .aproduct-content .product-name a:hover, .anav-top .amanufacturer-content .brand-name a:hover {color: #ff2218} .anav-top .acategory-content .category-subs li a:hover:before {border-color: #ff2218} .anav-top .acategory-content .category-subs li a:hover:before {background-color: #ff2218} #footer {background-color: #f1f1f1} #footer, #footer .footer-about-us .fa, #footer .footer-about-us .material-icons {color: #000000} #footer .footer-main h2, #footer .footer-main h3, #footer .footer-main h4, #footer .footer-main h5 {color: #000000} #footer a:hover {color: #989cff} #footer .footer-bottom {background-color: #c21f37} .btn-primary, .btn-primary.disabled, .btn-primary:disabled, .btn-outline-primary:hover, .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show > .btn-outline-primary.dropdown-toggle, .btn.btn-primary, .btn.btn-primary.disabled, .btn.btn-primary:disabled, .add-to-cart, .add-to-cart.disabled, .add-to-cart:disabled, #header .mobile-header-version .mobile-menu-icon {background-color: #ee3e3e} .btn-primary, .btn-primary.disabled, .btn-primary:disabled, .btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show > .btn-outline-primary.dropdown-toggle, .border-primary {border-color: #ee3e3e} .btn-primary:hover, .btn.btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .btn.btn-primary:not(:disabled):not(.disabled):active, .btn.btn-primary:not(:disabled):not(.disabled).active, .add-to-cart:hover, .add-to-cart:not(:disabled):not(.disabled):active, .add-to-cart:not(:disabled):not(.disabled).active {background-color: #e51414} .product-name a:hover, a.product-name:hover {color: #ff4465} body, .view-all-link, .manufacturer-list .brand .brand-name, .product-name {font-family: Poppins} h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .title-block, .column-title, .typo .column-title, .page-heading, .page-subheading, .nav-item .nav-link, .anav-top .amenu-link {font-family: Poppins} </style>
+
+<style type="text/css">#header .header-logo .logo {
+  max-height: 73px;
+}
+/*es importante pq solo asi se cambia el sticky*/
+#header-main-menu {
+background-color: #000000 !important;
+}
+
+/*Whats App button*/
+.float-wsp-call {
+    position: fixed;
+    bottom: 90px;
+    right: 10px;
+    z-index: 999999;
+    animation-name: bounceIn;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    animation-delay: 2s;
+}
+
+/*Bounce animation*/
+@keyframes bounceIn{
+  0%{
+    opacity: 0;
+    transform: scale(0.3) translate3d(0,0,0);
+  }
+  50%{
+    opacity: 0.9;
+    transform: scale(1.1);
+  }
+  80%{
+    opacity: 1;
+    transform: scale(0.89);
+  }
+  100%{
+    opacity: 1;
+    transform: scale(1) translate3d(0,0,0);
+  }
+}
+
+@media (min-width: 767px){
+/*despues de hook a suscrip*/
+.newsletter-form .form-control {
+	max-width: 70%;
+	float: left;
+}
+.block-newsletter.js-emailsubscription h4
+{
+  display: none;
+}
+
+/* palabra categ al ico de arriba*/
+.left-nav-icon .material-icons::after {
+	content: "Categorías";
+	font-size: 18px;
+	font-family: 'Roboto';
+vertical-align: super;
+}
+#header .left-nav-trigger .left-nav-icon {
+	width: 150px;
+}
+.material-icons {
+	width: inherit;
+}
+
+}
+
+
+.block-newsletter.js-emailsubscription h4 {
+	color: white;
+}
+
+#exchange-rate {
+	display: none;
+}
+
+.footer-top.clearfix {
+	background: #c21f37;
+}
+
+.block-newsletter.js-emailsubscription {
+	padding-top: 5px;
+}
+
+.block-newsletter .newsletter-message .conditons {
+	color: white;
+}
+.copyright-payment {
+	color: white;
+}
+#header .left-nav-trigger .left-nav-icon {
+	color: #000;
+}
+.form-group.row.postcode {
+    display: none;
+}</style>
+<!-- MODULE Block contact infos -->
+
+<style type="text/css">
+.left-categories.column-block.md-bottom {
+    display: none;
+}
+
+/*.product-right-content .block-reassurance {
+	display: none !important;
+}*/
+
+/*ocultar pagina de pago */
+.cart-grid.mb-3.row {
+    display: none;
+}
+
+
+.dropdown-menu.show a:nth-child(7) {
+    display: none;
+}
+.dropdown-menu.show a:nth-child(8) {
+    display: none;
+}
+</style>
+	<!-- /MODULE Block contact infos -->
+
+
+
+
+
+    
+  </head>
+
+  <body id="category" class="lang-es country-pe currency-usd layout-left-column page-category tax-display-enabled category-id-3743 category-procesador-amd category-id-parent-2 category-depth-level-2  st-wrapper  pace-done"><div class="pace  pace-inactive"><div class="pace-progress" data-progress-text="100%" data-progress="99" style="transform: translate3d(100%, 0px, 0px);">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+
+    
+      
+    
+
+      <div class="st-menu st-effect-left">
+    <div class="st-menu-close d-flex" data-close-st-menu=""><i class="material-icons">close</i></div>
+    <div class="st-menu-title">
+      <h4>Menú</h4>
+    </div>
+
+          <div class="js-sidebar-category-tree sidebar-menu" data-categorytree-controller="https://corpmagicsystem.com/module/zonethememanager/categoryTree"><div class="category-tree sidebar-category-tree js-sidebar-categories"><ul><li><a href="https://corpmagicsystem.com/12095-arma-y-cotiza-tu-pc" title="ARMA Y COTIZA TU PC" data-category-id="12095"><span>ARMA Y COTIZA TU PC</span></a><div class="collapse-icons js-collapse-trigger"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu js-sub-categories"><ul><li><a href="https://corpmagicsystem.com/12096-s0-s200000" title="s/0 - S/2,000.00" data-category-id="12096">s/0 - S/2,000.00</a></li><li><a href="https://corpmagicsystem.com/12097-s200000-s300000" title="S/2,000.00 - S/3,000.00" data-category-id="12097">S/2,000.00 - S/3,000.00</a></li><li><a href="https://corpmagicsystem.com/12098-s-300000-s500000" title="S/ 3,000.00 - S/5,000.00" data-category-id="12098">S/ 3,000.00 - S/5,000.00</a></li><li><a href="https://corpmagicsystem.com/12129-s500000-s800000" title="S/5,000.00 - S/8,000.00" data-category-id="12129">S/5,000.00 - S/8,000.00</a></li><li><a href="https://corpmagicsystem.com/12130-s800000-a-mas" title="S/8,000.00 - A MÁS" data-category-id="12130">S/8,000.00 - A MÁS</a></li></ul></div></li><li><a href="https://corpmagicsystem.com/5584-laptop" title="LAPTOP" data-category-id="5584"><span>LAPTOP</span></a><div class="collapse-icons js-collapse-trigger"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu js-sub-categories"><ul><li><a href="https://corpmagicsystem.com/12086-laptop-intel" title="Laptop Intel" data-category-id="12086">Laptop Intel</a></li><li><a href="https://corpmagicsystem.com/12087-laptop-amd" title="Laptop AMD" data-category-id="12087">Laptop AMD</a></li><li><a href="https://corpmagicsystem.com/12088-laptop-gamer-intel" title="Laptop Gamer Intel" data-category-id="12088">Laptop Gamer Intel</a></li><li><a href="https://corpmagicsystem.com/12089-laptop-gamer-amd" title="Laptop Gamer AMD" data-category-id="12089">Laptop Gamer AMD</a></li></ul></div></li><li><a href="https://corpmagicsystem.com/23388-pc-all-in-one" title="PC All in One" data-category-id="23388"><span>PC All in One</span></a></li><li><a href="https://corpmagicsystem.com/3740-accesorios" title="Accesorios" data-category-id="3740"><span>Accesorios</span></a></li><li><a href="https://corpmagicsystem.com/4217-placas-intel" title="Placas Intel" data-category-id="4217"><span>Placas Intel</span></a></li><li><a href="https://corpmagicsystem.com/4218-placas-amd" title="Placas AMD" data-category-id="4218"><span>Placas AMD</span></a></li><li><a href="https://corpmagicsystem.com/6445-procesador-intel" title="Procesador Intel" data-category-id="6445"><span>Procesador Intel</span></a><div class="collapse-icons js-collapse-trigger"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu js-sub-categories"><ul><li><a href="https://corpmagicsystem.com/12074-9na-generacion-lga-1151" title="9na Generación LGA 1151" data-category-id="12074">9na Generación LGA 1151</a></li><li><a href="https://corpmagicsystem.com/12075-10ma-generacion-lga-1200" title="10ma Generación LGA 1200" data-category-id="12075">10ma Generación LGA 1200</a></li><li><a href="https://corpmagicsystem.com/12076-11va-generacion-lga-1200" title="11va Generación LGA 1200" data-category-id="12076">11va Generación LGA 1200</a></li><li><a href="https://corpmagicsystem.com/12077-12va-generacion-lga-1700" title="12va Generación LGA 1700" data-category-id="12077">12va Generación LGA 1700</a></li><li><a href="https://corpmagicsystem.com/12078-13va-generacion-lga-1700" title="13va Generación LGA 1700" data-category-id="12078">13va Generación LGA 1700</a></li><li><a href="https://corpmagicsystem.com/12079-14va-generacion-lga-1700" title="14va Generación LGA 1700" data-category-id="12079">14va Generación LGA 1700</a></li><li><a href="https://corpmagicsystem.com/23387-core-ultra-lga-1851" title="Core Ultra LGA 1851" data-category-id="23387">Core Ultra LGA 1851</a></li></ul></div></li><li><a href="https://corpmagicsystem.com/3743-procesador-amd" title="Procesador AMD" data-category-id="3743" class="current"><span>Procesador AMD</span></a><div class="collapse-icons js-collapse-trigger opened"><i class="material-icons add" style="display: none;"></i><i class="material-icons remove" style="display: inline;"></i></div><div class="category-sub-menu js-sub-categories expanded" style="display: block;"><ul><li><a href="https://corpmagicsystem.com/12085-amd-athlon" title="AMD Athlon" data-category-id="12085">AMD Athlon</a></li><li><a href="https://corpmagicsystem.com/12080-ryzen-serie-3000" title="Ryzen Serie 3000" data-category-id="12080">Ryzen Serie 3000</a></li><li><a href="https://corpmagicsystem.com/12081-ryzen-serie-4000" title="Ryzen Serie 4000" data-category-id="12081">Ryzen Serie 4000</a></li><li><a href="https://corpmagicsystem.com/12082-ryzen-serie-5000" title="Ryzen Serie 5000" data-category-id="12082">Ryzen Serie 5000</a></li><li><a href="https://corpmagicsystem.com/12083-ryzen-serie-7000" title="Ryzen Serie 7000" data-category-id="12083">Ryzen Serie 7000</a></li><li><a href="https://corpmagicsystem.com/12084-ryzen-serie-8000" title="Ryzen Serie 8000" data-category-id="12084">Ryzen Serie 8000</a></li><li><a href="https://corpmagicsystem.com/12127-ryzen-serie-9000" title="Ryzen Serie 9000" data-category-id="12127">Ryzen Serie 9000</a></li></ul></div></li><li><a href="https://corpmagicsystem.com/3787-disco-solido-m2" title="Disco Solido M.2" data-category-id="3787"><span>Disco Solido M.2</span></a></li><li><a href="https://corpmagicsystem.com/3741-tarjeta-de-video" title="Tarjeta De Video" data-category-id="3741"><span>Tarjeta De Video</span></a><div class="collapse-icons js-collapse-trigger"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu js-sub-categories"><ul><li><a href="https://corpmagicsystem.com/12113-amd-radeon-" title="AMD Radeon" data-category-id="12113">AMD Radeon</a></li><li><a href="https://corpmagicsystem.com/12115-geforce-gt" title="Geforce GT" data-category-id="12115">Geforce GT</a></li><li><a href="https://corpmagicsystem.com/12114-geforce-gtx-1mil-" title="Geforce GTX 1mil" data-category-id="12114">Geforce GTX 1mil</a></li><li><a href="https://corpmagicsystem.com/12111-geforce-rtx-3mil" title="Geforce RTX 3mil" data-category-id="12111">Geforce RTX 3mil</a></li><li><a href="https://corpmagicsystem.com/12112-geforce-rtx-4mil" title="Geforce RTX 4mil" data-category-id="12112">Geforce RTX 4mil</a></li><li><a href="https://corpmagicsystem.com/12128-geforce-rtx-5mil" title="Geforce RTX 5mil" data-category-id="12128">Geforce RTX 5mil</a></li></ul></div></li><li><a href="https://corpmagicsystem.com/3738-disco-solido-sata" title="Disco Solido Sata" data-category-id="3738"><span>Disco Solido Sata</span></a></li><li><a href="https://corpmagicsystem.com/3751-discos-duros" title="Discos Duros" data-category-id="3751"><span>Discos Duros</span></a></li><li><a href="https://corpmagicsystem.com/3739-memoria-ram-pc" title="Memoria Ram PC" data-category-id="3739"><span>Memoria Ram PC</span></a><div class="collapse-icons js-collapse-trigger"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu js-sub-categories"><ul><li><a href="https://corpmagicsystem.com/12123-memoria-ddr3" title="Memoria DDR3" data-category-id="12123">Memoria DDR3</a></li><li><a href="https://corpmagicsystem.com/12124-memoria-ddr4" title="Memoria DDR4" data-category-id="12124">Memoria DDR4</a></li><li><a href="https://corpmagicsystem.com/12125-memoria-ddr5" title="Memoria DDR5" data-category-id="12125">Memoria DDR5</a></li></ul></div></li><li><a href="https://corpmagicsystem.com/3753-memoria-ram-laptop" title="Memoria Ram Laptop" data-category-id="3753"><span>Memoria Ram Laptop</span></a></li><li><a href="https://corpmagicsystem.com/3754-cases" title="Cases" data-category-id="3754"><span>Cases</span></a><div class="collapse-icons js-collapse-trigger"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu js-sub-categories"><ul><li><a href="https://corpmagicsystem.com/12107-antryx" title="ANTRYX" data-category-id="12107">ANTRYX</a></li><li><a href="https://corpmagicsystem.com/12110-antec" title="ANTEC" data-category-id="12110">ANTEC</a></li><li><a href="https://corpmagicsystem.com/12116-cybertel" title="CYBERTEL" data-category-id="12116">CYBERTEL</a></li><li><a href="https://corpmagicsystem.com/12104-halion" title="HALION" data-category-id="12104">HALION</a></li><li><a href="https://corpmagicsystem.com/12105-msi" title="MSI" data-category-id="12105">MSI</a></li><li><a href="https://corpmagicsystem.com/12109-micronics" title="MICRONICS" data-category-id="12109">MICRONICS</a></li><li><a href="https://corpmagicsystem.com/12106-teros" title="TEROS" data-category-id="12106">TEROS</a></li><li><a href="https://corpmagicsystem.com/12108-thermaltake" title="THERMALTAKE" data-category-id="12108">THERMALTAKE</a></li></ul></div></li><li><a href="https://corpmagicsystem.com/3744-fuentes-de-poder" title="Fuentes De Poder" data-category-id="3744"><span>Fuentes De Poder</span></a></li><li><a href="https://corpmagicsystem.com/3752-monitores" title="Monitores" data-category-id="3752"><span>Monitores</span></a><div class="collapse-icons js-collapse-trigger"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu js-sub-categories"><ul><li><a href="https://corpmagicsystem.com/12099-monitor-19-20" title="Monitor 19&quot; - 20&quot;" data-category-id="12099">Monitor 19" - 20"</a></li><li><a href="https://corpmagicsystem.com/12100-monitor-22" title="Monitor 22&quot;" data-category-id="12100">Monitor 22"</a></li><li><a href="https://corpmagicsystem.com/12101-monitor-24-25" title="Monitor 24&quot; - 25&quot;" data-category-id="12101">Monitor 24" - 25"</a></li><li><a href="https://corpmagicsystem.com/12102-monitor-27" title="Monitor 27&quot;" data-category-id="12102">Monitor 27"</a></li><li><a href="https://corpmagicsystem.com/12103-monitor-32" title="Monitor 32&quot;" data-category-id="12103">Monitor 32"</a></li><li><a href="https://corpmagicsystem.com/12126-monitor-34" title="Monitor 34&quot;" data-category-id="12126">Monitor 34"</a></li></ul></div></li><li><a href="https://corpmagicsystem.com/3742-placa-ddr3" title="PLACA DDR3" data-category-id="3742"><span>PLACA DDR3</span></a></li><li><a href="https://corpmagicsystem.com/5938-refrigeracion" title="REFRIGERACION" data-category-id="5938"><span>REFRIGERACION</span></a></li><li><a href="https://corpmagicsystem.com/3788-antivirus" title="Antivirus" data-category-id="3788"><span>Antivirus</span></a></li><li><a href="https://corpmagicsystem.com/3736-disco-duro-externo" title="Disco Duro Externo" data-category-id="3736"><span>Disco Duro Externo</span></a></li><li><a href="https://corpmagicsystem.com/5838-discos-solido-externo" title="Discos Solido Externo" data-category-id="5838"><span>Discos Solido Externo</span></a></li></ul></div></div>
+
+    
+    <div id="js-header-phone-sidebar" class="sidebar-header-phone">
+	<p></p>
+<!-- <ul>
+<li><a href="#"><i class="material-icons">card_giftcard</i> Weekly Ads</a></li>
+<li><a href="#"><i class="material-icons">location_on</i> Store Finder</a></li>
+<li><a href="#"><i class="fa fa-id-card-o"></i> About Us</a></li>
+<li><a href="#"><i class="fa fa-envelope-o"></i> Contact Us</a></li>
+</ul> -->
+</div>
+    <div id="js-account-sidebar" class="sidebar-account text-center user-info">
+        <ul>
+          <li>
+            <div class="account-link">
+              <a href="https://corpmagicsystem.com/mi-cuenta" title="Acceda a su cuenta de cliente" rel="nofollow">
+                <i class="material-icons">person</i><span>Iniciar sesión</span>
+              </a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    <div id="js-language-sidebar" class="sidebar-language"></div>
+    <div id="js-left-currency-sidebar" class="sidebar-currency js-hidden"></div>
+  </div>
+
+    <main id="page" class="st-pusher">
+
+      
+              
+
+      <header id="header">
+        
+          
+  <!-- desktop header -->
+  <div class="desktop-header-version">
+    
+      <div class="header-banner clearfix">
+        
+
+      </div>
+    
+
+    
+      <div class="header-nav clearfix">
+        <div class="container">
+          <div class="header-nav-wrapper d-flex align-items-center justify-content-between">
+            <div class="left-nav d-flex">
+              <div class="header-phone js-header-phone-source">
+	<p></p>
+<!-- <ul>
+<li><a href="#"><i class="material-icons">card_giftcard</i> Weekly Ads</a></li>
+<li><a href="#"><i class="material-icons">location_on</i> Store Finder</a></li>
+<li><a href="#"><i class="fa fa-id-card-o"></i> About Us</a></li>
+<li><a href="#"><i class="fa fa-envelope-o"></i> Contact Us</a></li>
+</ul> -->
+</div>
+
+            </div>
+            <div class="right-nav d-flex">
+              <div class="currency-selector-wrapper" style="display: flex">
+  <div class="currency-selector dropdown js-dropdown">
+    <div class="desktop-dropdown">
+      <span id="currency-selector-label">Moneda:</span>
+      <button class="btn-unstyle dropdown-current expand-more" data-toggle="dropdown" data-offset="0,2px" aria-haspopup="true" aria-expanded="false" aria-label="Selector desplegable de moneda">
+        <span>USD</span>
+        <span class="dropdown-icon"><span class="expand-icon"></span></span>
+      </button>
+      <div class="dropdown-menu js-currency-source" aria-labelledby="currency-selector-label">
+        <ul class="currency-list">
+                      <li>
+              <a title="Sol peruano" rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?SubmitCurrency=1&amp;id_currency=1" class="dropdown-item">
+                PEN <span class="c-sign">S/</span>
+              </a>
+            </li>
+                      <li class="current">
+              <a title="Dólar estadounidense" rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?SubmitCurrency=1&amp;id_currency=2" class="dropdown-item">
+                USD <span class="c-sign">$</span>
+              </a>
+            </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+  <div class="currency-selector">
+	<span class="dropdown-current" style="float: left;" id="exchange-rate">
+		Tipo de Cambio: 3,86 
+  </span></div>
+</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+    
+      <div class="main-header clearfix">
+        <div class="container">
+          <div class="header-wrapper d-flex align-items-center">
+
+            
+              <div class="header-logo">
+                <a href="https://corpmagicsystem.com/" title="Corp Magic System">
+                                      <img class="logo" src="https://corpmagicsystem.com/img/smart-tech-logo-1727370271.jpg" alt="Corp Magic System" width="606" height="258">
+                                  </a>
+              </div>
+            
+
+            
+              <div class="header-right">
+                <div class="display-top align-items-center d-flex flex-md-wrap flex-lg-nowrap justify-content-end">
+                  <!-- Block search module TOP -->
+<div class="searchbar-wrapper">
+  <div id="search_widget" class="js-search-source" data-search-controller-url="//corpmagicsystem.com/busqueda">
+    <div class="search-widget ui-front">
+      <form method="get" action="//corpmagicsystem.com/busqueda">
+        <input type="hidden" name="controller" value="search">
+        <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input class="form-control ui-autocomplete-input" type="text" name="s" value="" placeholder="Búsqueda en catálogo" aria-label="Buscar" autocomplete="off">
+        <button type="submit" class="btn-primary">
+          <i class="material-icons search">search</i>
+        </button>
+      </form>
+    <ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul></div>
+  </div>
+</div>
+<!-- /Block search module TOP -->
+<div class="customer-signin-module">
+  <div class="user-info">
+          <div class="js-account-source">
+        <ul>
+          <li>
+            <div class="account-link">
+              <a href="https://corpmagicsystem.com/mi-cuenta" title="Acceda a su cuenta de cliente" rel="nofollow">
+                <i class="material-icons">person</i><span>Iniciar sesión</span>
+              </a>
+            </div>
+          </li>
+        </ul>
+      </div>
+      </div>
+</div><div class="shopping-cart-module">
+  <div class="blockcart cart-preview" data-refresh-url="//corpmagicsystem.com/module/ps_shoppingcart/ajax" data-sidebar-cart-trigger="">
+    <ul class="cart-header">
+      <li data-sticky-cart-source="">
+        <a rel="nofollow" href="//corpmagicsystem.com/carrito?action=show" class="cart-link btn-primary">
+          <span class="cart-design"><i class="fa fa-shopping-basket" aria-hidden="true"></i><span class="cart-products-count">0</span></span>
+          <span class="cart-total-value">$ 0,00</span>
+        </a>
+      </li>
+    </ul>
+
+    <div class="cart-dropdown js-hidden" data-shopping-cart-source="">
+  <div class="cart-dropdown-wrapper">
+    <div class="cart-title">
+      <h4>Carrito</h4>
+    </div>
+          <div class="no-items">
+        No hay más artículos en su carrito
+      </div>
+      </div>
+  <div class="js-cart-update-quantity page-loading-overlay cart-overview-loading">
+    <div class="page-loading-backdrop d-flex align-items-center justify-content-center">
+      <span class="uil-spin-css"><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span></span>
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+
+                </div>
+              </div>
+            
+
+          </div>
+        </div>
+      </div>
+    
+
+    
+      <div class="header-bottom clearfix">
+        <div id="header-main-menu-sticky-wrapper" class="desktop-sticky-wrapper" style="height: 50px;"><div class="header-main-menu" id="header-main-menu" data-sticky-menu="">
+          <div class="container">
+            <div class="header-main-menu-wrapper">
+                              <div class="left-nav-trigger" data-left-nav-trigger="">
+                  <div class="left-nav-icon d-flex align-items-center justify-content-center">
+                    <i class="material-icons">view_headline</i>
+                  </div>
+                </div>
+                              <div id="amegamenu" class="d-none d-md-block ">
+    <ul class="anav-top js-ajax-mega-menu" data-ajax-dropdown-controller="https://corpmagicsystem.com/module/zonemegamenu/menuDropdownContent">
+              <li class="amenu-item mm9  ">
+          <a href="https://corpmagicsystem.com/5584-laptop" class="amenu-link">                        <span>LAPTOPS</span>
+                      </a>
+                  </li>
+              <li class="amenu-item mm13  ">
+          <a href="#" class="amenu-link">                        <span>OFERTAS</span>
+                      </a>
+                  </li>
+              <li class="amenu-item mm4  ">
+          <a href="https://corpmagicsystem.com/2-inicio" class="amenu-link">                        <span>NOVEDADES</span>
+                      </a>
+                  </li>
+              <li class="amenu-item mm7  ">
+          <a href="/content/8-metodos-de-pago" class="amenu-link">                        <span>MEDIOS DE PAGO</span>
+                      </a>
+                  </li>
+              <li class="amenu-item mm11  ">
+          <a href="/contactenos" class="amenu-link">                        <span>CONTACTANOS</span>
+                      </a>
+                  </li>
+          </ul>
+  </div>
+
+              <div class="sticky-icon-cart" data-sticky-cart="" data-sidebar-cart-trigger="">
+        <a rel="nofollow" href="//corpmagicsystem.com/carrito?action=show" class="cart-link btn-primary">
+          <span class="cart-design"><i class="fa fa-shopping-basket" aria-hidden="true"></i><span class="cart-products-count">0</span></span>
+          <span class="cart-total-value">$ 0,00</span>
+        </a>
+      </div>
+            </div>
+          </div>
+        </div></div>
+      </div>
+    
+  </div>
+
+
+
+        
+      </header>
+
+      <section id="wrapper">
+
+        
+<nav class="breadcrumb-wrapper ">
+  <div class="container">
+    <ol class="breadcrumb" data-depth="2" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+      
+                  
+                          <li class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                                <a itemprop="item" href="https://corpmagicsystem.com/">
+                                      <i class="fa fa-home home" aria-hidden="true"></i>
+                                      <span itemprop="name">Inicio</span>
+                </a>
+                <meta itemprop="position" content="1">
+              </li>
+                      
+                  
+                          <li class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                                  <span class="separator material-icons">chevron_right</span>
+                                <a itemprop="item" href="https://corpmagicsystem.com/3743-procesador-amd">
+                                      <span itemprop="name">Procesador AMD</span>
+                </a>
+                <meta itemprop="position" content="2">
+              </li>
+                      
+              
+    </ol>
+  </div>
+</nav>
+
+        
+          
+        
+
+        
+
+        
+
+        
+          <div class="main-content">
+            <div class="container">
+              <div class="row ">
+
+                
+                  <div id="left-column" class="sidebar-column col-12 col-md-4 col-lg-3">
+                    <div class="column-wrapper">
+                      
+
+<div class="left-categories column-block md-bottom">
+  <h4 class="column-title">
+    Inicio
+  </h4>
+  <div class="category-tree js-category-tree">
+    
+  <ul><li data-depth="0"><a href="https://corpmagicsystem.com/12095-arma-y-cotiza-tu-pc" title="ARMA Y COTIZA TU PC" data-category-id="12095"><span>ARMA Y COTIZA TU PC</span></a><div class="collapse-icons" data-toggle="collapse" data-target="#exCollapsingNavbar12095"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu collapse" id="exCollapsingNavbar12095">
+  <ul><li data-depth="1"><a href="https://corpmagicsystem.com/12096-s0-s200000" title="s/0 - S/2,000.00" data-category-id="12096"><span>s/0 - S/2,000.00</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12097-s200000-s300000" title="S/2,000.00 - S/3,000.00" data-category-id="12097"><span>S/2,000.00 - S/3,000.00</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12098-s-300000-s500000" title="S/ 3,000.00 - S/5,000.00" data-category-id="12098"><span>S/ 3,000.00 - S/5,000.00</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12129-s500000-s800000" title="S/5,000.00 - S/8,000.00" data-category-id="12129"><span>S/5,000.00 - S/8,000.00</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12130-s800000-a-mas" title="S/8,000.00 - A MÁS" data-category-id="12130"><span>S/8,000.00 - A MÁS</span></a></li></ul></div></li><li data-depth="0"><a href="https://corpmagicsystem.com/5584-laptop" title="LAPTOP" data-category-id="5584"><span>LAPTOP</span></a><div class="collapse-icons" data-toggle="collapse" data-target="#exCollapsingNavbar5584"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu collapse" id="exCollapsingNavbar5584">
+  <ul><li data-depth="1"><a href="https://corpmagicsystem.com/12086-laptop-intel" title="Laptop Intel" data-category-id="12086"><span>Laptop Intel</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12087-laptop-amd" title="Laptop AMD" data-category-id="12087"><span>Laptop AMD</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12088-laptop-gamer-intel" title="Laptop Gamer Intel" data-category-id="12088"><span>Laptop Gamer Intel</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12089-laptop-gamer-amd" title="Laptop Gamer AMD" data-category-id="12089"><span>Laptop Gamer AMD</span></a></li></ul></div></li><li data-depth="0"><a href="https://corpmagicsystem.com/23388-pc-all-in-one" title="PC All in One" data-category-id="23388"><span>PC All in One</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/3740-accesorios" title="Accesorios" data-category-id="3740"><span>Accesorios</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/4217-placas-intel" title="Placas Intel" data-category-id="4217"><span>Placas Intel</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/4218-placas-amd" title="Placas AMD" data-category-id="4218"><span>Placas AMD</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/6445-procesador-intel" title="Procesador Intel" data-category-id="6445"><span>Procesador Intel</span></a><div class="collapse-icons" data-toggle="collapse" data-target="#exCollapsingNavbar6445"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu collapse" id="exCollapsingNavbar6445">
+  <ul><li data-depth="1"><a href="https://corpmagicsystem.com/12074-9na-generacion-lga-1151" title="9na Generación LGA 1151" data-category-id="12074"><span>9na Generación LGA 1151</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12075-10ma-generacion-lga-1200" title="10ma Generación LGA 1200" data-category-id="12075"><span>10ma Generación LGA 1200</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12076-11va-generacion-lga-1200" title="11va Generación LGA 1200" data-category-id="12076"><span>11va Generación LGA 1200</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12077-12va-generacion-lga-1700" title="12va Generación LGA 1700" data-category-id="12077"><span>12va Generación LGA 1700</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12078-13va-generacion-lga-1700" title="13va Generación LGA 1700" data-category-id="12078"><span>13va Generación LGA 1700</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12079-14va-generacion-lga-1700" title="14va Generación LGA 1700" data-category-id="12079"><span>14va Generación LGA 1700</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/23387-core-ultra-lga-1851" title="Core Ultra LGA 1851" data-category-id="23387"><span>Core Ultra LGA 1851</span></a></li></ul></div></li><li data-depth="0"><a href="https://corpmagicsystem.com/3743-procesador-amd" title="Procesador AMD" data-category-id="3743" class="current"><span>Procesador AMD</span></a><div class="collapse-icons" data-toggle="collapse" data-target="#exCollapsingNavbar3743" aria-expanded="true"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu collapse show" id="exCollapsingNavbar3743">
+  <ul><li data-depth="1"><a href="https://corpmagicsystem.com/12085-amd-athlon" title="AMD Athlon" data-category-id="12085"><span>AMD Athlon</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12080-ryzen-serie-3000" title="Ryzen Serie 3000" data-category-id="12080"><span>Ryzen Serie 3000</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12081-ryzen-serie-4000" title="Ryzen Serie 4000" data-category-id="12081"><span>Ryzen Serie 4000</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12082-ryzen-serie-5000" title="Ryzen Serie 5000" data-category-id="12082"><span>Ryzen Serie 5000</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12083-ryzen-serie-7000" title="Ryzen Serie 7000" data-category-id="12083"><span>Ryzen Serie 7000</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12084-ryzen-serie-8000" title="Ryzen Serie 8000" data-category-id="12084"><span>Ryzen Serie 8000</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12127-ryzen-serie-9000" title="Ryzen Serie 9000" data-category-id="12127"><span>Ryzen Serie 9000</span></a></li></ul></div></li><li data-depth="0"><a href="https://corpmagicsystem.com/3787-disco-solido-m2" title="Disco Solido M.2" data-category-id="3787"><span>Disco Solido M.2</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/3741-tarjeta-de-video" title="Tarjeta De Video" data-category-id="3741"><span>Tarjeta De Video</span></a><div class="collapse-icons" data-toggle="collapse" data-target="#exCollapsingNavbar3741"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu collapse" id="exCollapsingNavbar3741">
+  <ul><li data-depth="1"><a href="https://corpmagicsystem.com/12113-amd-radeon-" title="AMD Radeon" data-category-id="12113"><span>AMD Radeon</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12115-geforce-gt" title="Geforce GT" data-category-id="12115"><span>Geforce GT</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12114-geforce-gtx-1mil-" title="Geforce GTX 1mil" data-category-id="12114"><span>Geforce GTX 1mil</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12111-geforce-rtx-3mil" title="Geforce RTX 3mil" data-category-id="12111"><span>Geforce RTX 3mil</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12112-geforce-rtx-4mil" title="Geforce RTX 4mil" data-category-id="12112"><span>Geforce RTX 4mil</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12128-geforce-rtx-5mil" title="Geforce RTX 5mil" data-category-id="12128"><span>Geforce RTX 5mil</span></a></li></ul></div></li><li data-depth="0"><a href="https://corpmagicsystem.com/3738-disco-solido-sata" title="Disco Solido Sata" data-category-id="3738"><span>Disco Solido Sata</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/3751-discos-duros" title="Discos Duros" data-category-id="3751"><span>Discos Duros</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/3739-memoria-ram-pc" title="Memoria Ram PC" data-category-id="3739"><span>Memoria Ram PC</span></a><div class="collapse-icons" data-toggle="collapse" data-target="#exCollapsingNavbar3739"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu collapse" id="exCollapsingNavbar3739">
+  <ul><li data-depth="1"><a href="https://corpmagicsystem.com/12123-memoria-ddr3" title="Memoria DDR3" data-category-id="12123"><span>Memoria DDR3</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12124-memoria-ddr4" title="Memoria DDR4" data-category-id="12124"><span>Memoria DDR4</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12125-memoria-ddr5" title="Memoria DDR5" data-category-id="12125"><span>Memoria DDR5</span></a></li></ul></div></li><li data-depth="0"><a href="https://corpmagicsystem.com/3753-memoria-ram-laptop" title="Memoria Ram Laptop" data-category-id="3753"><span>Memoria Ram Laptop</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/3754-cases" title="Cases" data-category-id="3754"><span>Cases</span></a><div class="collapse-icons" data-toggle="collapse" data-target="#exCollapsingNavbar3754"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu collapse" id="exCollapsingNavbar3754">
+  <ul><li data-depth="1"><a href="https://corpmagicsystem.com/12107-antryx" title="ANTRYX" data-category-id="12107"><span>ANTRYX</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12110-antec" title="ANTEC" data-category-id="12110"><span>ANTEC</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12116-cybertel" title="CYBERTEL" data-category-id="12116"><span>CYBERTEL</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12104-halion" title="HALION" data-category-id="12104"><span>HALION</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12105-msi" title="MSI" data-category-id="12105"><span>MSI</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12109-micronics" title="MICRONICS" data-category-id="12109"><span>MICRONICS</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12106-teros" title="TEROS" data-category-id="12106"><span>TEROS</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12108-thermaltake" title="THERMALTAKE" data-category-id="12108"><span>THERMALTAKE</span></a></li></ul></div></li><li data-depth="0"><a href="https://corpmagicsystem.com/3744-fuentes-de-poder" title="Fuentes De Poder" data-category-id="3744"><span>Fuentes De Poder</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/3752-monitores" title="Monitores" data-category-id="3752"><span>Monitores</span></a><div class="collapse-icons" data-toggle="collapse" data-target="#exCollapsingNavbar3752"><i class="material-icons add"></i><i class="material-icons remove"></i></div><div class="category-sub-menu collapse" id="exCollapsingNavbar3752">
+  <ul><li data-depth="1"><a href="https://corpmagicsystem.com/12099-monitor-19-20" title="Monitor 19&quot; - 20&quot;" data-category-id="12099"><span>Monitor 19" - 20"</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12100-monitor-22" title="Monitor 22&quot;" data-category-id="12100"><span>Monitor 22"</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12101-monitor-24-25" title="Monitor 24&quot; - 25&quot;" data-category-id="12101"><span>Monitor 24" - 25"</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12102-monitor-27" title="Monitor 27&quot;" data-category-id="12102"><span>Monitor 27"</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12103-monitor-32" title="Monitor 32&quot;" data-category-id="12103"><span>Monitor 32"</span></a></li><li data-depth="1"><a href="https://corpmagicsystem.com/12126-monitor-34" title="Monitor 34&quot;" data-category-id="12126"><span>Monitor 34"</span></a></li></ul></div></li><li data-depth="0"><a href="https://corpmagicsystem.com/3742-placa-ddr3" title="PLACA DDR3" data-category-id="3742"><span>PLACA DDR3</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/5938-refrigeracion" title="REFRIGERACION" data-category-id="5938"><span>REFRIGERACION</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/3788-antivirus" title="Antivirus" data-category-id="3788"><span>Antivirus</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/3736-disco-duro-externo" title="Disco Duro Externo" data-category-id="3736"><span>Disco Duro Externo</span></a></li><li data-depth="0"><a href="https://corpmagicsystem.com/5838-discos-solido-externo" title="Discos Solido Externo" data-category-id="5838"><span>Discos Solido Externo</span></a></li></ul>
+  </div>
+</div>
+<div class="aone-column">
+      <div class="column-block md-bottom clearfix no-box">
+              <div class="static-html typo">
+          <p><a href="https://corpmagicsystem.com/laptop/1101690-laptop-lenovo-amd-ryzen7-7735hs-ideapad-slim3-14arp10-ram-16gb-ssd-512gb-140-wuxga-oled-color-lunagray.html"><img src="https://corpmagicsystem.com/img/cms/LAPTOP LENOVO IDEAPAD SLIM 3 14ARP10 R7.png" alt="Laptop Lenovo Ideapad Slim 3 14ARP10 R7" width="1898" height="3375"></a></p>
+        </div>
+          </div>
+      <div class="column-block md-bottom clearfix no-box">
+              <div class="static-html typo">
+          <p><a href="https://corpmagicsystem.com/monitores/1144355-monitor-lg-27-g6-ultragear-27g610a-b-qhd-1ms-200hz.html"><img src="https://corpmagicsystem.com/img/cms/MONITOR LG LED GAMING 27 27G610A.png" alt="Monitor LG LED Gaming 27 pulgadas 27G610A" width="1898" height="3375"></a></p>
+        </div>
+          </div>
+      <div class="column-block md-bottom clearfix no-box">
+              <div class="static-html typo">
+          <p><a href="https://corpmagicsystem.com/monitores/1144355-monitor-lg-27-g6-ultragear-27g610a-b-qhd-1ms-200hz.html"><img src="https://corpmagicsystem.com/img/cms/FUENTE ANTRYX 850W KIRIN GOLD EVO.png" alt="Fuente Antryx 850W Kirin Gold EVO 80 Plus" width="1898" height="3375"></a></p>
+        </div>
+          </div>
+  </div>
+
+                    </div>
+                  </div>
+                
+
+                
+                  <div id="center-column" class="center-column col-12 col-md-8 col-lg-9">
+                    <div class="center-wrapper">
+                      
+                      
+                      
+  <section id="main">
+
+    
+  <div id="js-product-list-header">
+  
+  <h1 class="page-heading js-category-page" data-current-category-id="3743">Procesador AMD</h1>
+  
+  
+  
+                  <aside class="subcategories mb-2">
+          <h3 class="page-subheading">Subcategorías</h3>
+          <div class="subcategories-wrapper row">
+                          
+                
+
+  <section class="subcategory-miniature no-image col-6 col-sm-4 col-md-4 col-lg-3">
+    
+    <h5 class="subcategory-name">
+      <a href="https://corpmagicsystem.com/12085-amd-athlon" class="li-a">AMD Athlon</a>
+    </h5>
+
+    <div class="subcategory-description"></div>
+  </section>
+
+              
+                          
+                
+
+  <section class="subcategory-miniature no-image col-6 col-sm-4 col-md-4 col-lg-3">
+    
+    <h5 class="subcategory-name">
+      <a href="https://corpmagicsystem.com/12080-ryzen-serie-3000" class="li-a">Ryzen Serie 3000</a>
+    </h5>
+
+    <div class="subcategory-description"></div>
+  </section>
+
+              
+                          
+                
+
+  <section class="subcategory-miniature no-image col-6 col-sm-4 col-md-4 col-lg-3">
+    
+    <h5 class="subcategory-name">
+      <a href="https://corpmagicsystem.com/12081-ryzen-serie-4000" class="li-a">Ryzen Serie 4000</a>
+    </h5>
+
+    <div class="subcategory-description"></div>
+  </section>
+
+              
+                          
+                
+
+  <section class="subcategory-miniature no-image col-6 col-sm-4 col-md-4 col-lg-3">
+    
+    <h5 class="subcategory-name">
+      <a href="https://corpmagicsystem.com/12082-ryzen-serie-5000" class="li-a">Ryzen Serie 5000</a>
+    </h5>
+
+    <div class="subcategory-description"></div>
+  </section>
+
+              
+                          
+                
+
+  <section class="subcategory-miniature no-image col-6 col-sm-4 col-md-4 col-lg-3">
+    
+    <h5 class="subcategory-name">
+      <a href="https://corpmagicsystem.com/12083-ryzen-serie-7000" class="li-a">Ryzen Serie 7000</a>
+    </h5>
+
+    <div class="subcategory-description"></div>
+  </section>
+
+              
+                          
+                
+
+  <section class="subcategory-miniature no-image col-6 col-sm-4 col-md-4 col-lg-3">
+    
+    <h5 class="subcategory-name">
+      <a href="https://corpmagicsystem.com/12084-ryzen-serie-8000" class="li-a">Ryzen Serie 8000</a>
+    </h5>
+
+    <div class="subcategory-description"></div>
+  </section>
+
+              
+                          
+                
+
+  <section class="subcategory-miniature no-image col-6 col-sm-4 col-md-4 col-lg-3">
+    
+    <h5 class="subcategory-name">
+      <a href="https://corpmagicsystem.com/12127-ryzen-serie-9000" class="li-a">Ryzen Serie 9000</a>
+    </h5>
+
+    <div class="subcategory-description"></div>
+  </section>
+
+              
+                      </div>
+        </aside>
+          
+          
+      
+</div>
+
+
+    <section id="products">
+      
+        
+          <div id="js-product-list-top" class="products-selection sm-bottom clearfix">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-12 col-lg-8 products-sort-order order-2">
+      
+        <div class="d-flex flex-wrap">
+  <label class="form-control-label d-none d-lg-block sort-label">Ordenar por:</label>
+  <div class="sort-select dropdown js-dropdown">
+    <button class="custom-select select-title" data-toggle="dropdown" data-offset="0,1px" aria-haspopup="true" aria-expanded="false">
+      Relevancia    </button>
+    <div class="dropdown-menu">
+              <a rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?order=product.sales.desc" class="dropdown-item js-search-link">
+          Ventas en orden decreciente
+        </a>
+              <a rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?order=product.position.asc" class="dropdown-item current js-search-link">
+          Relevancia
+        </a>
+              <a rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?order=product.name.asc" class="dropdown-item js-search-link">
+          Nombre, A a Z
+        </a>
+              <a rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?order=product.name.desc" class="dropdown-item js-search-link">
+          Nombre, Z a A
+        </a>
+              <a rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?order=product.price.asc" class="dropdown-item js-search-link">
+          Precio: de más bajo a más alto
+        </a>
+              <a rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?order=product.price.desc" class="dropdown-item js-search-link">
+          Precio, de más alto a más bajo
+        </a>
+              <a rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?order=product.reference.asc" class="dropdown-item js-search-link">
+          Reference, A to Z
+        </a>
+              <a rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?order=product.reference.desc" class="dropdown-item js-search-link">
+          Reference, Z to A
+        </a>
+          </div>
+  </div>
+
+  
+      <div class="product-display d-none d-md-block">
+      <div class="d-flex">
+        <label class="form-control-label display-label d-none d-lg-block">Vista</label>
+        <ul class="display-select" id="product_display_control">
+          <li class="d-flex">
+            <a data-view="grid" class="selected" rel="nofollow" href="#grid" title="Cuadrícula" data-toggle="tooltip" data-placement="top">
+              <i class="material-icons">view_comfy</i>
+            </a>
+            <a data-view="list" rel="nofollow" href="#list" title="Lista" data-toggle="tooltip" data-placement="top">
+              <i class="material-icons">view_list</i>
+            </a>
+            <a data-view="table-view" rel="nofollow" href="#table" title="Tabla" data-toggle="tooltip" data-placement="top">
+              <i class="material-icons">view_headline</i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+      
+    </div>
+
+    
+    <div class="col-12 col-lg-4 total-products order-4 order-lg-1 d-none d-lg-block">
+      <p>
+              Hay 35 productos.
+            </p>
+    </div>
+  </div>  
+</div>
+        
+
+        
+          <div id="_mobile_search_filters" class="mobile-search-fillter light-box-bg d-md-none md-bottom"></div>
+        
+        
+        
+          <div id="js-active-search-filters">
+  </div>
+
+        
+
+        <div id="js-filter-scroll-here"></div>
+
+        
+	        
+<div id="js-product-list" data-grid-columns="columns-3">
+  <div class="product-list">
+    <div class="products product-list-wrapper clearfix columns-3 js-product-list-view grid">
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="1152392" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/1152392-ryzen-7-5700-amd-37ghz-46ghz-20mb-cache-8core-16thread.html" class="product-cover-link">
+                      
+                  <img src="https://corpmagicsystem.com/3748-home_default/ryzen-7-5700-amd-37ghz-46ghz-20mb-cache-8core-16thread.jpg" data-original="https://corpmagicsystem.com/3748-home_default/ryzen-7-5700-amd-37ghz-46ghz-20mb-cache-8core-16thread.jpg" alt="RYZEN 7 5700 AMD 3.7GHZ/4.6GHZ, 20MB CACHE, 8CORE 16THREAD" title="RYZEN 7 5700 AMD 3.7GHZ/4.6GHZ, 20MB CACHE, 8CORE 16THREAD" class="img-fluid" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/1152392-ryzen-7-5700-amd-37ghz-46ghz-20mb-cache-8core-16thread.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/1152392-ryzen-7-5700-amd-37ghz-46ghz-20mb-cache-8core-16thread.html" title="RYZEN 7 5700 AMD 3.7GHZ/4.6GHZ, 20MB CACHE, 8CORE 16THREAD">RYZEN 7 5700 AMD 3.7GHZ/4.6GHZ, 20MB CACHE, 8CORE 16THREAD</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="170">$ 170,00</span>
+                    <span class="price product-price" itemprop="price" content="170">(S/ 656,20)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/OutOfStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/1152392-ryzen-7-5700-amd-37ghz-46ghz-20mb-cache-8core-16thread.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                              <div class="product-availability">
+                  <span class="unavailable">Fuera de stock</span>
+                </div>
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart details-link" href="https://corpmagicsystem.com/procesador-amd/1152392-ryzen-7-5700-amd-37ghz-46ghz-20mb-cache-8core-16thread.html">
+                  <span>Detalles</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart details-link" href="https://corpmagicsystem.com/procesador-amd/1152392-ryzen-7-5700-amd-37ghz-46ghz-20mb-cache-8core-16thread.html">
+                  <span>Ver detalles</span> &nbsp;<i class="caret-right"></i>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/3748-home_default/ryzen-7-5700-amd-37ghz-46ghz-20mb-cache-8core-16thread.jpg">  <meta itemprop="sku" content="730143317856">    </article>
+
+        
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="1032850" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/1032850-amd-ryzen-7-8700f-41ghz-50ghz-16mb-cache-8-nucleos-sin-grafico.html" class="product-cover-link">
+                      
+                  <img src="https://corpmagicsystem.com/3542-home_default/amd-ryzen-7-8700f-41ghz-50ghz-16mb-cache-8-nucleos-sin-grafico.jpg" data-original="https://corpmagicsystem.com/3542-home_default/amd-ryzen-7-8700f-41ghz-50ghz-16mb-cache-8-nucleos-sin-grafico.jpg" alt="AMD RYZEN 7 8700F 4.1GHZ/5.0GHZ, 16MB CACHE, 8 NÚCLEOS / SIN GRÁFICO" title="AMD RYZEN 7 8700F 4.1GHZ/5.0GHZ, 16MB CACHE, 8 NÚCLEOS / SIN GRÁFICO" class="img-fluid" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/1032850-amd-ryzen-7-8700f-41ghz-50ghz-16mb-cache-8-nucleos-sin-grafico.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/1032850-amd-ryzen-7-8700f-41ghz-50ghz-16mb-cache-8-nucleos-sin-grafico.html" title="AMD RYZEN 7 8700F 4.1GHZ/5.0GHZ, 16MB CACHE, 8 NÚCLEOS / SIN GRÁFICO">AMD RYZEN 7 8700F 4.1GHZ/5.0GHZ, 16MB CACHE, 8 NÚCLEOS / SIN GRÁFICO</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="268">$ 268,00</span>
+                    <span class="price product-price" itemprop="price" content="268">(S/ 1.034,48)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/InStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/1032850-amd-ryzen-7-8700f-41ghz-50ghz-16mb-cache-8-nucleos-sin-grafico.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                      <div class="addtocart-quantity product-quantity-touchspin d-none">
+              <div class="input-group bootstrap-touchspin"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-down" type="button"><i class="material-icons">remove</i></button></span><input type="number" name="qty" value="1" class="form-control js-add-to-cart-quantity" min="1" data-id-product="1032850" style="display: block;"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-up" type="button"><i class="material-icons">add</i></button></span></div>
+            </div>
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/1032850-amd-ryzen-7-8700f-41ghz-50ghz-16mb-cache-8-nucleos-sin-grafico.html" data-id-product="1032850">
+                  <span>Comprar</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/1032850-amd-ryzen-7-8700f-41ghz-50ghz-16mb-cache-8-nucleos-sin-grafico.html" data-id-product="1032850">
+                  <i class="fa fa-plus" aria-hidden="true"></i><span>Añadir al carrito</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/3542-home_default/amd-ryzen-7-8700f-41ghz-50ghz-16mb-cache-8-nucleos-sin-grafico.jpg">  <meta itemprop="sku" content="730143316699">    </article>
+
+        
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="900948" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/900948-amd-ryzen-7-9700x-38ghz-40mb-cache-8core.html" class="product-cover-link">
+                      
+                  <img src="https://corpmagicsystem.com/3336-home_default/amd-ryzen-7-9700x-38ghz-40mb-cache-8core.jpg" data-original="https://corpmagicsystem.com/3336-home_default/amd-ryzen-7-9700x-38ghz-40mb-cache-8core.jpg" alt="AMD RYZEN 7 9700X 3.8GHZ/5.5GHZ, 40MB CACHE, 8 NÚCLEOS / CON GRÁFICOS / SIN COOLER" title="AMD RYZEN 7 9700X 3.8GHZ/5.5GHZ, 40MB CACHE, 8 NÚCLEOS / CON GRÁFICOS / SIN COOLER" class="img-fluid" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/900948-amd-ryzen-7-9700x-38ghz-40mb-cache-8core.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/900948-amd-ryzen-7-9700x-38ghz-40mb-cache-8core.html" title="AMD RYZEN 7 9700X 3.8GHZ/5.5GHZ, 40MB CACHE, 8 NÚCLEOS / CON GRÁFICOS / SIN COOLER">AMD RYZEN 7 9700X 3.8GHZ/5.5GHZ, 40MB CACHE, 8 NÚCLEOS / CON GRÁFICOS / SIN COOLER</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="391">$ 391,00</span>
+                    <span class="price product-price" itemprop="price" content="391">(S/ 1.509,26)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/InStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/900948-amd-ryzen-7-9700x-38ghz-40mb-cache-8core.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                      <div class="addtocart-quantity product-quantity-touchspin d-none">
+              <div class="input-group bootstrap-touchspin"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-down" type="button"><i class="material-icons">remove</i></button></span><input type="number" name="qty" value="1" class="form-control js-add-to-cart-quantity" min="1" data-id-product="900948" style="display: block;"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-up" type="button"><i class="material-icons">add</i></button></span></div>
+            </div>
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/900948-amd-ryzen-7-9700x-38ghz-40mb-cache-8core.html" data-id-product="900948">
+                  <span>Comprar</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/900948-amd-ryzen-7-9700x-38ghz-40mb-cache-8core.html" data-id-product="900948">
+                  <i class="fa fa-plus" aria-hidden="true"></i><span>Añadir al carrito</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/3336-home_default/amd-ryzen-7-9700x-38ghz-40mb-cache-8core.jpg">  <meta itemprop="sku" content="730143315593">    </article>
+
+        
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="870625" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/870625-amd-ryzen-5-5400f-core6-thread12-47-42-ghz-20mb-cahe.html" class="product-cover-link">
+                      
+                  <img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20278%20278%22%3E%3C/svg%3E" data-original="https://corpmagicsystem.com/3268-home_default/amd-ryzen-5-5400f-core6-thread12-47-42-ghz-20mb-cahe.jpg" alt="RYZEN 5 8400F 4.7GHZ/4.2GHZ, 20MB CACHE, 6 NÚCLEOS, 12 HILOS / SIN GRÁFICO" title="RYZEN 5 8400F 4.7GHZ/4.2GHZ, 20MB CACHE, 6 NÚCLEOS, 12 HILOS / SIN GRÁFICO" class="img-fluid js-lazy" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/870625-amd-ryzen-5-5400f-core6-thread12-47-42-ghz-20mb-cahe.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/870625-amd-ryzen-5-5400f-core6-thread12-47-42-ghz-20mb-cahe.html" title="RYZEN 5 8400F 4.7GHZ/4.2GHZ, 20MB CACHE, 6 NÚCLEOS, 12 HILOS / SIN GRÁFICO">RYZEN 5 8400F 4.7GHZ/4.2GHZ, 20MB CACHE, 6 NÚCLEOS, 12 HILOS / SIN GRÁFICO</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="174">$ 174,00</span>
+                    <span class="price product-price" itemprop="price" content="174">(S/ 671,64)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/InStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/870625-amd-ryzen-5-5400f-core6-thread12-47-42-ghz-20mb-cahe.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                      <div class="addtocart-quantity product-quantity-touchspin d-none">
+              <div class="input-group bootstrap-touchspin"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-down" type="button"><i class="material-icons">remove</i></button></span><input type="number" name="qty" value="1" class="form-control js-add-to-cart-quantity" min="1" data-id-product="870625" style="display: block;"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-up" type="button"><i class="material-icons">add</i></button></span></div>
+            </div>
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/870625-amd-ryzen-5-5400f-core6-thread12-47-42-ghz-20mb-cahe.html" data-id-product="870625">
+                  <span>Comprar</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/870625-amd-ryzen-5-5400f-core6-thread12-47-42-ghz-20mb-cahe.html" data-id-product="870625">
+                  <i class="fa fa-plus" aria-hidden="true"></i><span>Añadir al carrito</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/3268-home_default/amd-ryzen-5-5400f-core6-thread12-47-42-ghz-20mb-cahe.jpg">  <meta itemprop="sku" content="730143316736">    </article>
+
+        
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="712054" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/712054-amd-ryzen-7-8700g-42ghz-51ghz-24mb-cache.html" class="product-cover-link">
+                      
+                  <img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20278%20278%22%3E%3C/svg%3E" data-original="https://corpmagicsystem.com/2354-home_default/amd-ryzen-7-8700g-42ghz-51ghz-24mb-cache.jpg" alt="AMD RYZEN 7 8700G 4.2GHZ/5.1GHZ, 16MB CACHE, 8 NÚCLEOS / GRAFICOS RADEON INTEGRADOS" title="AMD RYZEN 7 8700G 4.2GHZ/5.1GHZ, 16MB CACHE, 8 NÚCLEOS / GRAFICOS RADEON INTEGRADOS" class="img-fluid js-lazy" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/712054-amd-ryzen-7-8700g-42ghz-51ghz-24mb-cache.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/712054-amd-ryzen-7-8700g-42ghz-51ghz-24mb-cache.html" title="AMD RYZEN 7 8700G 4.2GHZ/5.1GHZ, 16MB CACHE, 8 NÚCLEOS / GRAFICOS RADEON INTEGRADOS">AMD RYZEN 7 8700G 4.2GHZ/5.1GHZ, 16MB CACHE, 8 NÚCLEOS / GRAFICOS RADEON INTEGRADOS</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="295">$ 295,00</span>
+                    <span class="price product-price" itemprop="price" content="295">(S/ 1.138,70)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/OutOfStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/712054-amd-ryzen-7-8700g-42ghz-51ghz-24mb-cache.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                              <div class="product-availability">
+                  <span class="unavailable">Fuera de stock</span>
+                </div>
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart details-link" href="https://corpmagicsystem.com/procesador-amd/712054-amd-ryzen-7-8700g-42ghz-51ghz-24mb-cache.html">
+                  <span>Detalles</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart details-link" href="https://corpmagicsystem.com/procesador-amd/712054-amd-ryzen-7-8700g-42ghz-51ghz-24mb-cache.html">
+                  <span>Ver detalles</span> &nbsp;<i class="caret-right"></i>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/2354-home_default/amd-ryzen-7-8700g-42ghz-51ghz-24mb-cache.jpg">  <meta itemprop="sku" content="730143316125">    </article>
+
+        
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="585783" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/585783-athlon-3000g-amd-35ghz-5mb-cache-2-nucleos-grafico-radeon-integrado.html" class="product-cover-link">
+                      
+                  <img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20278%20278%22%3E%3C/svg%3E" data-original="https://corpmagicsystem.com/2340-home_default/athlon-3000g-amd-35ghz-5mb-cache-2-nucleos-grafico-radeon-integrado.jpg" alt="ATHLON 3000G AMD 3.5GHZ, 5MB CACHE, 2 NÚCLEOS / GRÁFICO RADEON INTEGRADO" title="ATHLON 3000G AMD 3.5GHZ, 5MB CACHE, 2 NÚCLEOS / GRÁFICO RADEON INTEGRADO" class="img-fluid js-lazy" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/585783-athlon-3000g-amd-35ghz-5mb-cache-2-nucleos-grafico-radeon-integrado.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/585783-athlon-3000g-amd-35ghz-5mb-cache-2-nucleos-grafico-radeon-integrado.html" title="ATHLON 3000G AMD 3.5GHZ, 5MB CACHE, 2 NÚCLEOS / GRÁFICO RADEON INTEGRADO">ATHLON 3000G AMD 3.5GHZ, 5MB CACHE, 2 NÚCLEOS / GRÁFICO RADEON INTEGRADO</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="45">$ 45,00</span>
+                    <span class="price product-price" itemprop="price" content="45">(S/ 173,70)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/InStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/585783-athlon-3000g-amd-35ghz-5mb-cache-2-nucleos-grafico-radeon-integrado.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                      <div class="addtocart-quantity product-quantity-touchspin d-none">
+              <div class="input-group bootstrap-touchspin"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-down" type="button"><i class="material-icons">remove</i></button></span><input type="number" name="qty" value="1" class="form-control js-add-to-cart-quantity" min="1" data-id-product="585783" style="display: block;"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-up" type="button"><i class="material-icons">add</i></button></span></div>
+            </div>
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/585783-athlon-3000g-amd-35ghz-5mb-cache-2-nucleos-grafico-radeon-integrado.html" data-id-product="585783">
+                  <span>Comprar</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/585783-athlon-3000g-amd-35ghz-5mb-cache-2-nucleos-grafico-radeon-integrado.html" data-id-product="585783">
+                  <i class="fa fa-plus" aria-hidden="true"></i><span>Añadir al carrito</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/2340-home_default/athlon-3000g-amd-35ghz-5mb-cache-2-nucleos-grafico-radeon-integrado.jpg">  <meta itemprop="sku" content="730143315715">    </article>
+
+        
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="273016" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/273016-ryzen-5-5600x-amd-37ghz-46ghz-35mb-cache-6-nucleos-sin-grafico.html" class="product-cover-link">
+                      
+                  <img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20278%20278%22%3E%3C/svg%3E" data-original="https://corpmagicsystem.com/2343-home_default/ryzen-5-5600x-amd-37ghz-46ghz-35mb-cache-6-nucleos-sin-grafico.jpg" alt="RYZEN 5 5600X AMD 3.7GHZ/4.6GHZ, 35MB CACHE, 6 NÚCLEOS / SIN GRÁFICO" title="RYZEN 5 5600X AMD 3.7GHZ/4.6GHZ, 35MB CACHE, 6 NÚCLEOS / SIN GRÁFICO" class="img-fluid js-lazy" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/273016-ryzen-5-5600x-amd-37ghz-46ghz-35mb-cache-6-nucleos-sin-grafico.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/273016-ryzen-5-5600x-amd-37ghz-46ghz-35mb-cache-6-nucleos-sin-grafico.html" title="RYZEN 5 5600X AMD 3.7GHZ/4.6GHZ, 35MB CACHE, 6 NÚCLEOS / SIN GRÁFICO">RYZEN 5 5600X AMD 3.7GHZ/4.6GHZ, 35MB CACHE, 6 NÚCLEOS / SIN GRÁFICO</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="156">$ 156,00</span>
+                    <span class="price product-price" itemprop="price" content="156">(S/ 602,16)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/OutOfStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/273016-ryzen-5-5600x-amd-37ghz-46ghz-35mb-cache-6-nucleos-sin-grafico.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                              <div class="product-availability">
+                  <span class="unavailable">Fuera de stock</span>
+                </div>
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart details-link" href="https://corpmagicsystem.com/procesador-amd/273016-ryzen-5-5600x-amd-37ghz-46ghz-35mb-cache-6-nucleos-sin-grafico.html">
+                  <span>Detalles</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart details-link" href="https://corpmagicsystem.com/procesador-amd/273016-ryzen-5-5600x-amd-37ghz-46ghz-35mb-cache-6-nucleos-sin-grafico.html">
+                  <span>Ver detalles</span> &nbsp;<i class="caret-right"></i>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/2343-home_default/ryzen-5-5600x-amd-37ghz-46ghz-35mb-cache-6-nucleos-sin-grafico.jpg">  <meta itemprop="sku" content="730143312042">    </article>
+
+        
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="270782" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/270782-amd-ryzen-5-3600-6-core-42ghz-36ghz-base.html" class="product-cover-link">
+                      
+                  <img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20278%20278%22%3E%3C/svg%3E" data-original="https://corpmagicsystem.com/2344-home_default/amd-ryzen-5-3600-6-core-42ghz-36ghz-base.jpg" alt="AMD RYZEN 5 3600 6 CORE 4.2GHZ / 3.6GHZ BASE" title="AMD RYZEN 5 3600 6 CORE 4.2GHZ / 3.6GHZ BASE" class="img-fluid js-lazy" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/270782-amd-ryzen-5-3600-6-core-42ghz-36ghz-base.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/270782-amd-ryzen-5-3600-6-core-42ghz-36ghz-base.html" title="AMD RYZEN 5 3600 6 CORE 4.2GHZ / 3.6GHZ BASE">AMD RYZEN 5 3600 6 CORE 4.2GHZ / 3.6GHZ BASE</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="130">$ 130,00</span>
+                    <span class="price product-price" itemprop="price" content="130">(S/ 501,80)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/InStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/270782-amd-ryzen-5-3600-6-core-42ghz-36ghz-base.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                      <div class="addtocart-quantity product-quantity-touchspin d-none">
+              <div class="input-group bootstrap-touchspin"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-down" type="button"><i class="material-icons">remove</i></button></span><input type="number" name="qty" value="1" class="form-control js-add-to-cart-quantity" min="1" data-id-product="270782" style="display: block;"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-up" type="button"><i class="material-icons">add</i></button></span></div>
+            </div>
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/270782-amd-ryzen-5-3600-6-core-42ghz-36ghz-base.html" data-id-product="270782">
+                  <span>Comprar</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/270782-amd-ryzen-5-3600-6-core-42ghz-36ghz-base.html" data-id-product="270782">
+                  <i class="fa fa-plus" aria-hidden="true"></i><span>Añadir al carrito</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/2344-home_default/amd-ryzen-5-3600-6-core-42ghz-36ghz-base.jpg">  <meta itemprop="sku" content="730143309936">    </article>
+
+        
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="900947" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/900947-amd-ryzen-9-9900x-44ghz-76mb-cache-12core.html" class="product-cover-link">
+                      
+                  <img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20278%20278%22%3E%3C/svg%3E" data-original="https://corpmagicsystem.com/3337-home_default/amd-ryzen-9-9900x-44ghz-76mb-cache-12core.jpg" alt="AMD RYZEN 9 9900X 4.4GHZ/5.6GHZ, 64MB CACHE / 12 NÚCLEOS / CON GRÁFICO / SIN COOLER" title="AMD RYZEN 9 9900X 4.4GHZ/5.6GHZ, 64MB CACHE / 12 NÚCLEOS / CON GRÁFICO / SIN COOLER" class="img-fluid js-lazy" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/900947-amd-ryzen-9-9900x-44ghz-76mb-cache-12core.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/900947-amd-ryzen-9-9900x-44ghz-76mb-cache-12core.html" title="AMD RYZEN 9 9900X 4.4GHZ/5.6GHZ, 64MB CACHE / 12 NÚCLEOS / CON GRÁFICO / SIN COOLER">AMD RYZEN 9 9900X 4.4GHZ/5.6GHZ, 64MB CACHE / 12 NÚCLEOS / CON GRÁFICO / SIN COOLER</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="495">$ 495,00</span>
+                    <span class="price product-price" itemprop="price" content="495">(S/ 1.910,70)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/OutOfStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/900947-amd-ryzen-9-9900x-44ghz-76mb-cache-12core.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                              <div class="product-availability">
+                  <span class="unavailable">Fuera de stock</span>
+                </div>
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart details-link" href="https://corpmagicsystem.com/procesador-amd/900947-amd-ryzen-9-9900x-44ghz-76mb-cache-12core.html">
+                  <span>Detalles</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart details-link" href="https://corpmagicsystem.com/procesador-amd/900947-amd-ryzen-9-9900x-44ghz-76mb-cache-12core.html">
+                  <span>Ver detalles</span> &nbsp;<i class="caret-right"></i>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/3337-home_default/amd-ryzen-9-9900x-44ghz-76mb-cache-12core.jpg">  <meta itemprop="sku" content="730143315296">    </article>
+
+        
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="736789" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/736789-ryzen-5-5600gt-amd-36ghz-46ghz-19mb-cache-6-nucleos.html" class="product-cover-link">
+                      
+                  <img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20278%20278%22%3E%3C/svg%3E" data-original="https://corpmagicsystem.com/2345-home_default/ryzen-5-5600gt-amd-36ghz-46ghz-19mb-cache-6-nucleos.jpg" alt="RYZEN 5 5600GT AMD 3.6GHZ/4.6GHZ, 19MB CACHE, 6 NÚCLEOS" title="RYZEN 5 5600GT AMD 3.6GHZ/4.6GHZ, 19MB CACHE, 6 NÚCLEOS" class="img-fluid js-lazy" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/736789-ryzen-5-5600gt-amd-36ghz-46ghz-19mb-cache-6-nucleos.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/736789-ryzen-5-5600gt-amd-36ghz-46ghz-19mb-cache-6-nucleos.html" title="RYZEN 5 5600GT AMD 3.6GHZ/4.6GHZ, 19MB CACHE, 6 NÚCLEOS">RYZEN 5 5600GT AMD 3.6GHZ/4.6GHZ, 19MB CACHE, 6 NÚCLEOS</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="170">$ 170,00</span>
+                    <span class="price product-price" itemprop="price" content="170">(S/ 656,20)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/InStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/736789-ryzen-5-5600gt-amd-36ghz-46ghz-19mb-cache-6-nucleos.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                      <div class="addtocart-quantity product-quantity-touchspin d-none">
+              <div class="input-group bootstrap-touchspin"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-down" type="button"><i class="material-icons">remove</i></button></span><input type="number" name="qty" value="1" class="form-control js-add-to-cart-quantity" min="1" data-id-product="736789" style="display: block;"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-up" type="button"><i class="material-icons">add</i></button></span></div>
+            </div>
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/736789-ryzen-5-5600gt-amd-36ghz-46ghz-19mb-cache-6-nucleos.html" data-id-product="736789">
+                  <span>Comprar</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/736789-ryzen-5-5600gt-amd-36ghz-46ghz-19mb-cache-6-nucleos.html" data-id-product="736789">
+                  <i class="fa fa-plus" aria-hidden="true"></i><span>Añadir al carrito</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/2345-home_default/ryzen-5-5600gt-amd-36ghz-46ghz-19mb-cache-6-nucleos.jpg">  <meta itemprop="sku" content="730143316002">    </article>
+
+        
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="712052" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/712052-amd-ryzen-5-8500g-35ghz-50ghz-22mb-cache.html" class="product-cover-link">
+                      
+                  <img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20278%20278%22%3E%3C/svg%3E" data-original="https://corpmagicsystem.com/2356-home_default/amd-ryzen-5-8500g-35ghz-50ghz-22mb-cache.jpg" alt="AMD RYZEN 5 8500G 3.5GHZ/5.0GHZ, 22MB CACHE" title="AMD RYZEN 5 8500G 3.5GHZ/5.0GHZ, 22MB CACHE" class="img-fluid js-lazy" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/712052-amd-ryzen-5-8500g-35ghz-50ghz-22mb-cache.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/712052-amd-ryzen-5-8500g-35ghz-50ghz-22mb-cache.html" title="AMD RYZEN 5 8500G 3.5GHZ/5.0GHZ, 22MB CACHE">AMD RYZEN 5 8500G 3.5GHZ/5.0GHZ, 22MB CACHE</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="157">$ 157,00</span>
+                    <span class="price product-price" itemprop="price" content="157">(S/ 606,02)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/InStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/712052-amd-ryzen-5-8500g-35ghz-50ghz-22mb-cache.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                      <div class="addtocart-quantity product-quantity-touchspin d-none">
+              <div class="input-group bootstrap-touchspin"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-down" type="button"><i class="material-icons">remove</i></button></span><input type="number" name="qty" value="1" class="form-control js-add-to-cart-quantity" min="1" data-id-product="712052" style="display: block;"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-up" type="button"><i class="material-icons">add</i></button></span></div>
+            </div>
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/712052-amd-ryzen-5-8500g-35ghz-50ghz-22mb-cache.html" data-id-product="712052">
+                  <span>Comprar</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/712052-amd-ryzen-5-8500g-35ghz-50ghz-22mb-cache.html" data-id-product="712052">
+                  <i class="fa fa-plus" aria-hidden="true"></i><span>Añadir al carrito</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/2356-home_default/amd-ryzen-5-8500g-35ghz-50ghz-22mb-cache.jpg">  <meta itemprop="sku" content="730143316439">    </article>
+
+        
+              
+          
+
+<article class="product-miniature product-style js-product-miniature" data-id-product="487407" data-id-product-attribute="0" data-product-id-category="3743" data-product-id-manufacturer="6485" itemscope="" itemtype="https://schema.org/Product">
+  <div class="product-container">
+    <div class="first-block">
+      
+
+  <div class="product-thumbnail">
+    <a href="https://corpmagicsystem.com/procesador-amd/487407-amd-ryzen-7-7700x-w-radeon-8core-45ghz-base.html" class="product-cover-link">
+                      
+                  <img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20278%20278%22%3E%3C/svg%3E" data-original="https://corpmagicsystem.com/2361-home_default/amd-ryzen-7-7700x-w-radeon-8core-45ghz-base.jpg" alt="AMD RYZEN 7 7700X W/RADEON 8CORE 4.5GHZ BASE" title="AMD RYZEN 7 7700X W/RADEON 8CORE 4.5GHZ BASE" class="img-fluid js-lazy" width="278" height="278">
+                  </a>
+  </div>
+
+
+      
+              
+
+      
+        <div class="grid-hover-btn">
+            <a href="https://corpmagicsystem.com/procesador-amd/487407-amd-ryzen-7-7700x-w-radeon-8core-45ghz-base.html" class="quick-view" data-link-action="quickview" title="Vista rápida" data-toggle="tooltip" data-placement="top" aria-label="Vista rápida">
+    <i class="fa fa-eye" aria-hidden="true"></i>
+  </a>
+        </div>
+      
+
+      
+
+      </div>
+
+    <div class="second-block">
+      
+        <h5 class="product-name" itemprop="name"><a href="https://corpmagicsystem.com/procesador-amd/487407-amd-ryzen-7-7700x-w-radeon-8core-45ghz-base.html" title="AMD RYZEN 7 7700X W/RADEON 8CORE 4.5GHZ BASE">AMD RYZEN 7 7700X W/RADEON 8CORE 4.5GHZ BASE</a></h5>
+      
+
+      <div class="second-block-wrapper">
+        <div class="informations-section">
+          <div class="price-and-status">
+            
+                              <div class="product-price-and-shipping d-flex flex-wrap align-items-center" itemprop="offers" itemscope="" itemtype="https://schema.org/Offer">
+                  <div class="first-prices d-flex flex-wrap align-items-center">
+                    
+
+                    <span class="price product-price" itemprop="price" content="362">$ 362,00</span>
+                    <span class="price product-price" itemprop="price" content="362">(S/ 1.397,32)</span>
+
+                  </div>
+
+                  
+                  <div class="tax-shipping-delivery-label d-none">
+                                          <span class="aeuc_tax_label">(impuestos inc.)</span>
+                                        
+                  </div>
+
+                  <div class="third-prices d-flex flex-wrap align-items-center">
+                    
+                    
+                  </div>
+
+                  <meta itemprop="availability" content="https://schema.org/InStock">
+                  <link itemprop="url" href="https://corpmagicsystem.com/procesador-amd/487407-amd-ryzen-7-7700x-w-radeon-8core-45ghz-base.html">
+                  <meta itemprop="priceCurrency" content="USD">                </div>
+                          
+
+            
+                          
+          </div>
+
+          
+            
+          
+
+          
+            <div class="product-description-short" itemprop="description"></div>
+          
+
+          
+                      
+        </div>
+        <div class="buttons-sections">
+                      <div class="addtocart-quantity product-quantity-touchspin d-none">
+              <div class="input-group bootstrap-touchspin"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-down" type="button"><i class="material-icons">remove</i></button></span><input type="number" name="qty" value="1" class="form-control js-add-to-cart-quantity" min="1" data-id-product="487407" style="display: block;"><span class="input-group-btn"><button class="btn btn-touchspin js-touchspin bootstrap-touchspin-up" type="button"><i class="material-icons">add</i></button></span></div>
+            </div>
+                    
+          
+            <div class="grid-buy-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/487407-amd-ryzen-7-7700x-w-radeon-8core-45ghz-base.html" data-id-product="487407">
+                  <span>Comprar</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="add-to-cart-button">
+                              <a class="btn add-to-cart js-ajax-add-to-cart" href="https://corpmagicsystem.com/procesador-amd/487407-amd-ryzen-7-7700x-w-radeon-8core-45ghz-base.html" data-id-product="487407">
+                  <i class="fa fa-plus" aria-hidden="true"></i><span>Añadir al carrito</span>
+                </a>
+                          </div>
+          
+
+          
+            <div class="product-actions"></div>
+          
+        </div>
+      </div>
+    </div>
+  </div><!-- /product-container -->
+
+  <link itemprop="image" href="https://corpmagicsystem.com/2361-home_default/amd-ryzen-7-7700x-w-radeon-8core-45ghz-base.jpg">  <meta itemprop="sku" content="730143314428">    </article>
+
+        
+          </div>
+  </div>
+
+  
+    <div class="pagination-wrapper light-box-bg clearfix">
+<nav class="pagination">
+<div class="row">
+  <div class="page-total col-12 col-lg-4">
+    
+      Mostrando 1-12 de 35 artículo(s)
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+              <ul class="page-list">
+                      <li class="current">
+                              <a rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd" class=" disabled js-search-link">
+                                      1
+                                  </a>
+                          </li>
+                      <li>
+                              <a rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?page=2" class=" js-search-link">
+                                      2
+                                  </a>
+                          </li>
+                      <li>
+                              <a rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?page=3" class=" js-search-link">
+                                      3
+                                  </a>
+                          </li>
+                      <li>
+                              <a rel="next" href="https://corpmagicsystem.com/3743-procesador-amd?page=2" class="next js-search-link">
+                                      Siguiente<i class="material-icons">navigate_next</i>
+                                  </a>
+                          </li>
+                  </ul>
+          
+  </div>
+</div>
+</nav>
+</div>  
+</div>
+	      
+
+        
+          <div id="js-product-list-bottom"></div>
+        
+
+          </section>
+
+    
+
+  </section>
+
+
+                      
+                    </div>
+                  </div>
+                
+
+                
+                  
+              </div><!-- /row -->
+            </div><!-- /container -->
+          </div><!-- /main-content -->
+        
+
+        
+
+        
+
+      </section>
+
+      <footer id="footer">
+        
+          
+  <div class="footer-top clearfix">
+    
+      <div class="container">
+        <div class="block-newsletter js-emailsubscription">
+  <h4>Boletín</h4>
+
+  <form action="https://corpmagicsystem.com/3743-procesador-amd#footer" method="post" class="js-subscription-form">
+    <div class="newsletter-form">
+      <div class="input-wrapper">
+        <input name="email" type="email" value="" class="form-control" placeholder="Su dirección de correo electrónico" aria-label="Dirección de correo electrónico">
+        <span class="input-btn">
+          <button type="submit" name="submitNewsletter" class="btn btn-primary d-none d-lg-inline-block">
+            <i class="fa fa-envelope-o"></i> Suscribirse
+          </button>
+          <button type="submit" name="submitNewsletter" class="btn btn-primary d-inline-block d-lg-none">
+            <i class="fa fa-envelope-o"></i> OK
+          </button>
+        </span>
+      </div>
+      <input type="hidden" name="action" value="0">
+    </div>
+
+    <div class="newsletter-message">
+                        <p class="conditons">Puede darse de baja en cualquier momento. Para ello, consulte nuestra información de contacto en el aviso legal.</p>
+                  </div>
+
+          
+      </form>
+</div>
+
+      </div>
+    
+  </div>
+
+
+
+  <div class="footer-main clearfix">
+    <div class="container">
+      <div class="row main-main">
+        
+          <div class="footer-left col-sm-12 col-md-6 col-lg-4">
+              <div class="footer-about-us md-bottom">
+    <div class="typo">
+      <h4 style="margin-top: -5px;">Tienda de Tecnologia Online</h4>
+<p><span class="fa fa-phone"></span><strong>Whatsapp:</strong> 936-798-639 / 972-022-257<strong></strong></p>
+<p><span class="fa fa-envelope"></span> Correo: corp.magic.system@gmail.com</p>
+<p><span class="fa fa-map-marker"></span>Dirección: Av. Bolivia 180 Galería Wilson Plaza (Tienda 113 primer piso).</p>
+<p><span class="fa fa-map-marker"></span>Sucursal: Av. Garcilazo de la Vega Nro. 1261 Galería Garcilazo de la Vega (Tienda 134 primer piso).</p>
+<p><span class="fa fa-map-marker"></span>Dirección de Soporte: Av. Bolivia 180 Galería Wilson Plaza (Tienda 235 segundo piso).</p>
+<p><a href="https://api.whatsapp.com/send?l=es&amp;phone=51936798639" target="_blank"> <img src="https://pcmagimport.com/img/cms/whatsp-1.png" class="float-wsp-call"></a></p>
+    </div>
+  </div>
+
+  <div class="block-social md-bottom">
+    <h4>Síguenos</h4>
+    <ul class="social-links">
+              <li class="facebook"><a href="#" title="Facebook" target="_blank" data-toggle="tooltip" data-placement="top">Facebook</a></li>
+              <li class="instagram"><a href="#" title="Instagram" target="_blank" data-toggle="tooltip" data-placement="top">Instagram</a></li>
+          </ul>
+  </div>
+
+
+          </div>
+        
+        
+          <div class="footer-right col-sm-12 col-md-6 col-lg-8">
+            <div class="footer-menu js-toggle-linklist-mobile">
+  <div class="row">
+          <div class="linklist col-12 col-lg-4">
+        <h4>Información</h4>
+        <ul>
+                      <li><a href="https://corpmagicsystem.com/content/3-terminos-y-condiciones-de-uso" title="Términos y condiciones">Términos y condiciones</a></li>
+                      <li><a href="https://corpmagicsystem.com/content/4-sobre-nosotros" title="Sobre nosotros">Sobre nosotros</a></li>
+                                <li>
+                          <a href="https://corpmagicsystem.com/contactenos" title="Contacte con nosotros">Contacte con nosotros</a>
+                        </li>
+                      <li>
+                          <a href="https://corpmagicsystem.com/mapa del sitio" title="Mapa del sitio">Mapa del sitio</a>
+                        </li>
+                  </ul>
+      </div>
+        
+          <div class="linklist col-12 col-lg-8">
+        <p><iframe width="100%" height="250" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3901.8251980884966!2d-77.04053582543968!3d-12.05554524206322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c8c68c533d53%3A0x29504a8c7deacb05!2sAv.%20Bolivia%20180%2C%20Lima%2015001!5e0!3m2!1ses!2spe!4v1707163184878!5m2!1ses!2spe" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+<!-- <div class="row">
+<div class="col-12 col-lg-6">
+<h4>Políticas y Condiciones</h4>
+<ul>
+<li><a href="#" target="_blank">Política de Privacidad de Datos Personales</a></li>
+<li><a href="#">Política de Cookies</a></li>
+<li><a href="#" target="_blank">Términos y Condiciones</a></li>
+</ul>
+</div>
+</div> -->
+      </div>
+      </div>
+</div>
+
+          </div>
+        
+      </div>
+
+      
+        <div class="row hook-display-footer">
+          
+        </div>
+      
+    </div>
+  </div>
+
+
+
+  <div class="footer-bottom clearfix">
+    
+      <div class="container">
+        <div class="copyright-payment">
+  <div class="typo">
+    <div class="row align-items-center">
+<div class="col-12 col-lg-6">
+<p class="text-lg-left m-0">&nbsp;Derechos Reservados © 2024 - 2025&nbsp; |&nbsp; Diseñado por <a href="https://www.lenguajevisual.pe" target="_blank" style="color: white;">Lenguaje Visual Perú</a></p>
+</div>
+<div class="col-12 col-lg-6">
+<p class="text-lg-right m-0" style="padding-top: 6px;"><img src="https://corpmagicsystem.com/img/cms/pay pagar.png" alt="" width="360" height="28"></p>
+</div>
+</div>
+  </div>
+</div>
+
+      </div>
+    
+  </div>
+
+        
+      </footer>
+
+    </main>
+
+    
+      <div class="js-popup-newsletter-form" data-ajax-submit-url="https://corpmagicsystem.com/module/zonepopupnewsletter/subscribe"></div>  <div id="cookieMessage" class="cookie-message js-cookieMessage" style="display: block;">
+    <div class="cookie-message-wrapper">
+      <div class="cookie-message-content">
+        <p>Este sitio utiliza cookies. Si continúa navegando por el sitio, acepta nuestro uso de cookies.</p>
+      </div>
+      <a class="cookie-close-button btn js-cookieCloseButton">Aceptar</a>
+    </div>
+  </div>
+
+  <div id="scrollTopButton" data-scroll-to-top="">
+    <a class="scroll-button" href="#scroll-to-top" title="Volver Arriba" data-toggle="tooltip" data-placement="top"><i class="fa fa-angle-double-up"></i></a>
+  </div>
+
+    
+
+      <div class="st-menu-right st-effect-right">
+    <div class="st-menu-close d-flex" data-close-st-menu=""><i class="material-icons">close</i></div>
+    <div id="js-cart-sidebar" class="sidebar-cart cart-preview">
+  <div class="cart-dropdown-wrapper">
+    <div class="cart-title">
+      <h4>Carrito</h4>
+    </div>
+          <div class="no-items">
+        No hay más artículos en su carrito
+      </div>
+      </div>
+  <div class="js-cart-update-quantity page-loading-overlay cart-overview-loading">
+    <div class="page-loading-backdrop d-flex align-items-center justify-content-center">
+      <span class="uil-spin-css"><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span></span>
+    </div>
+  </div>
+</div>
+    <div id="js-currency-sidebar" class="sidebar-currency">
+        <ul class="currency-list">
+                      <li>
+              <a title="Sol peruano" rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?SubmitCurrency=1&amp;id_currency=1" class="dropdown-item">
+                PEN 
+              </a>
+            </li>
+                      <li class="current">
+              <a title="Dólar estadounidense" rel="nofollow" href="https://corpmagicsystem.com/3743-procesador-amd?SubmitCurrency=1&amp;id_currency=2" class="dropdown-item">
+                USD 
+              </a>
+            </li>
+                  </ul>
+      </div>
+  </div>
+
+    <div id="modalMessage" class="modal fade modal-message js-modal-message" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">×</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="alert alert-danger mb-0" role="alert">
+        <i class="material-icons">error_outline</i> <span class="js-modal-message-text"></span>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+<div class="modal fade simple-modal" id="extraModal" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+      </div>
+      <div class="modal-body">
+        <div class="extra-content typo js-modal-extra-content"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <div class="st-overlay" data-close-st-menu=""></div>
+
+    
+      <div class="js-pending-query page-loading-overlay">
+      <div class="page-loading-backdrop d-flex align-items-center justify-content-center">
+        <span class="uil-spin-css"><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span><span><span></span></span></span>
+      </div>
+    </div>
+  
+
+    
+      
+  <script type="text/javascript" src="https://corpmagicsystem.com/themes/core.js"></script>
+  <script type="text/javascript" src="https://corpmagicsystem.com/themes/ZOneTheme/assets/js/theme.js"></script>
+  <script type="text/javascript" src="https://corpmagicsystem.com/themes/ZOneTheme/modules/ps_emailalerts/js/mailalerts.js"></script>
+  <script type="text/javascript" src="https://corpmagicsystem.com/modules/blockreassurance/views/dist/front.js"></script>
+  <script type="text/javascript" src="https://corpmagicsystem.com/js/jquery/ui/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="https://corpmagicsystem.com/themes/ZOneTheme/modules/ps_facetedsearch/views/dist/front.js"></script>
+  <script type="text/javascript" src="https://corpmagicsystem.com/modules/ps_imageslider/js/responsiveslides.min.js"></script>
+  <script type="text/javascript" src="https://corpmagicsystem.com/modules/ps_imageslider/js/homeslider.js"></script>
+  <script type="text/javascript" src="https://corpmagicsystem.com/themes/ZOneTheme/modules/ps_searchbar/ps_searchbar.js"></script>
+  <script type="text/javascript" src="https://corpmagicsystem.com/themes/ZOneTheme/modules/ps_shoppingcart/ps_shoppingcart.js"></script>
+  <script type="text/javascript" src="https://corpmagicsystem.com/themes/ZOneTheme/assets/js/custom.js"></script>
+
+    
+
+    
+      
+    
+
+  
+</body></html>

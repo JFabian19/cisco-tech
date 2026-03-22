@@ -1,4 +1,4 @@
-import { Product, Category } from '../types';
+import { Product } from '../types';
 
 export function parseCSV(text: string): string[][] {
     const result: string[][] = [];
@@ -91,21 +91,38 @@ export async function fetchProductsFromSheet(csvUrl: string): Promise<Product[]>
 
             const condicion = indices.condicion >= 0 ? row[indices.condicion]?.trim() : 'Usado';
 
-            let category: Category = 'laptops-usadas';
+            let categoryStr = 'laptops-usadas';
             if (indices.categoria >= 0 && row[indices.categoria]) {
-                const catStr = row[indices.categoria].toLowerCase();
-                if (catStr.includes('nueva') || catStr.includes('nuevo')) category = 'laptops-nuevas';
-                else if (catStr.includes('comp')) category = 'componentes';
-                else if (catStr.includes('serv')) category = 'servicios';
-                else if (catStr.includes('promo')) category = 'promociones';
+                categoryStr = row[indices.categoria].trim().toLowerCase();
             } else {
-                // Infer from condition
+                // Infer from condition if missing entirely (optional fallback)
                 if (condicion.toLowerCase().includes('nuevo') || condicion.toLowerCase().includes('nueva')) {
-                    category = 'laptops-nuevas';
+                    categoryStr = 'laptops-nuevas';
+                }
+            }
+            
+            // Map empty images based on category
+            let imageUrl = indices.imagenUrl >= 0 ? row[indices.imagenUrl]?.trim() : '';
+            if (!imageUrl) {
+                if (categoryStr.includes('laptop')) {
+                    imageUrl = 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&q=80&w=800';
+                } else if (categoryStr.includes('procesador')) {
+                    imageUrl = 'https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&q=80&w=800';
+                } else if (categoryStr.includes('plac') || categoryStr.includes('madre')) {
+                    imageUrl = 'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=800';
+                } else if (categoryStr.includes('disco') || categoryStr.includes('memoria')) {
+                    imageUrl = 'https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&q=80&w=800';
+                } else if (categoryStr.includes('monitor')) {
+                    imageUrl = 'https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&q=80&w=800';
+                } else if (categoryStr.includes('fuente')) {
+                    imageUrl = 'https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&q=80&w=800';
+                } else if (categoryStr.includes('servici')) {
+                    imageUrl = 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?auto=format&fit=crop&q=80&w=800';
+                } else {
+                    imageUrl = 'https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&q=80&w=800';
                 }
             }
 
-            const imageUrl = indices.imagenUrl >= 0 ? row[indices.imagenUrl]?.trim() : '';
             const customId = indices.id >= 0 ? row[indices.id]?.trim() : '';
 
             products.push({
@@ -113,8 +130,8 @@ export async function fetchProductsFromSheet(csvUrl: string): Promise<Product[]>
                 name: titulo,
                 description: descripcion,
                 price: precio,
-                category: category,
-                imageUrl: imageUrl || 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&q=80&w=800',
+                category: categoryStr,
+                imageUrl: imageUrl,
                 condition: condicion,
                 enStock: enStock
             });

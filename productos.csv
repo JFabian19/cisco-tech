@@ -1,13 +1,125 @@
-id,name,price,category,condition,enStock,description
-"lu-img-1","HP Elitebook 840 G4",900,"laptops-usadas","Usado",true,"Procesador Intel core i5 de octava generación, memoria ram de 8gb, disco sólido de 240gb, pantalla HD de 14""."
-"lu-img-2","Lenovo Thinkpad E14",1200,"laptops-usadas","Usado",true,"Procesador core i7 de decima generación, memoria ram de 16gb, disco sólido M.2 de 512gb, tarjeta de video dedicado de 2Gb, pantalla FHD de 14""."
-"lu-img-3","Lenovo Thinkpad X1 Carbón",850,"laptops-usadas","Usado",true,"Procesador Intel core i7 de sexta generación, memoria ram de 16gb, disco sólido M.2 de 256Gb, pantalla FHD de 14""."
-"lu-img-4","Laptop Lenovo Ideapad GAMING",1800,"laptops-usadas","Usado",true,"Procesador core i5 de décima generación, memoria ram de 16gb, disco sólido de 250gb + disco duro de 1Tb, pantalla FHD de 15.6"", teclado iluminado, tarjeta de video dedicado GTX1650 de 4GB."
-"lu-img-5","HP Elitebook 640",950,"laptops-usadas","Usado",true,"Procesador core i5 de octava generación, memoria ram de 8gb, disco sólido m.2. 256gb, pantalla de 14""."
-"comp-1","Procesador AMD Ryzen 5 5600GT",600,"componentes","Nuevo",true,"3.6GHz Base / 4.6GHz Max, con gráficos integrados."
-"comp-2","Procesador Intel Core i5 12400",850,"componentes","Nuevo",true,"2.50GHz Base / 4.40GHz Max, 18MB Caché, LGA 1700."
-"comp-3","Combo Teclado y Mouse Logitech MK120",60,"componentes","Nuevo",true,"Combo de teclado y mouse duradero con conexión USB."
-"comp-4","Placa Madre Gigabyte H610M",325,"componentes","Nuevo",true,"Socket LGA 1700, ideal para procesadores Intel de 12va generación."
-"serv-1","Mantenimiento Preventivo (Laptop/PC)",0,"servicios","",,"Limpieza interna, cambio de pasta térmica y optimización de sistema."
-"serv-2","Instalación de Sistema Operativo",0,"servicios","",,"Instalación limpia de Windows 10/11 o Linux con drivers y programas básicos."
-"serv-3","Diagnóstico de Hardware",0,"servicios","",,"Revisión completa para detectar fallas en componentes (Se descuenta si se realiza la reparación)."
+id,name,price,category,condition,enStock,description,Image
+p1,HP Elitebook 840 G4,900,laptops-usadas,Usado,TRUE,"Procesador Intel core i5 de octava generación, memoria ram de 8gb, disco sólido de 240gb, pantalla HD de 14"".",https://i.postimg.cc/Twzh1X9g/HP-Elitebook-840-G4.png
+p2,Lenovo Thinkpad E14,1200,laptops-usadas,Usado,TRUE,"Procesador core i7 de decima generación, memoria ram de 16gb, disco sólido M.2 de 512gb, tarjeta de video dedicado de 2Gb, pantalla FHD de 14"".",https://i.postimg.cc/JhthQhY6/Lenovo-Thinkpad-E14.png
+p3,Lenovo Thinkpad X1 Carbón,850,laptops-usadas,Usado,TRUE,"Procesador Intel core i7 de sexta generación, memoria ram de 16gb, disco sólido M.2 de 256Gb, pantalla FHD de 14"".",https://i.postimg.cc/t4vq7jR7/Lenovo-Thinkpad-X1-Carbon.png
+p4,Laptop Lenovo Ideapad GAMING,1800,laptops-usadas,Usado,TRUE,"Procesador core i5 de décima generación, memoria ram de 16gb, disco sólido de 250gb + disco duro de 1Tb, pantalla FHD de 15.6"", teclado iluminado, tarjeta de video dedicado GTX1650 de 4GB.",https://i.postimg.cc/ZnLZmkDp/Laptop-Lenovo-Ideapad-GAMING.png
+p5,HP Elitebook 640,950,laptops-usadas,Usado,TRUE,"Procesador core i5 de octava generación, memoria ram de 8gb, disco sólido m.2. 256gb, pantalla de 14"".",https://i.postimg.cc/zvqZ0tD2/HP-Elitebook-640.png
+c1,Procesador AMD Ryzen 5 5600GT,600,componentes,Nuevo,TRUE,"3.6GHz Base / 4.6GHz Max, con gráficos integrados.",
+c2,Procesador Intel Core i5 12400,850,componentes,Nuevo,TRUE,"2.50GHz Base / 4.40GHz Max, 18MB Caché, LGA 1700.",
+c3,Combo Teclado y Mouse Logitech MK120,60,componentes,Nuevo,TRUE,Combo de teclado y mouse duradero con conexión USB.,
+c4,Placa Madre Gigabyte H610M,325,componentes,Nuevo,TRUE,"Socket LGA 1700, ideal para procesadores Intel de 12va generación.",
+s1,Mantenimiento Preventivo (Laptop/PC),0,servicios,,TRUE,"Limpieza interna, cambio de pasta térmica y optimización de sistema.",
+s2,Instalación de Sistema Operativo,0,servicios,,TRUE,Instalación limpia de Windows 10/11 o Linux con drivers y programas básicos.,
+s3,Diagnóstico de Hardware,0,servicios,,TRUE,Revisión completa para detectar fallas en componentes (Se descuenta si se realiza la reparación).,
+promo1,,,promociones,,,TRUE,https://i.postimg.cc/4NXTpKDC/promo-1.jpg
+promo2,,,promociones,,,TRUE,https://i.postimg.cc/tCFzP5KD/promo-2.jpg
+e_57,Lexar 1Tb Nq780 M.2 2280 NVMe 6500Mb/S Gen4X4,,disco-solido-m.2,Nuevo,TRUE,,https://trondtech.au/wp-content/uploads/2025/07/Lexar-NQ780-1TB-600x800.webp
+e_58,Dato 256Gb Dp700 M.2 2280 NVMe Gen3X4 Pcie SSD 2500/1700Mb/S NVMe,,disco-solido-m.2,Nuevo,TRUE,,https://media.takealot.com/covers_images/c46cf6267a7549b2a779898fb8fdfec1/s-zoom.file
+e_60,Team Group 256Gb Ms30 SSD Sata3 6Gb/S M.2 SATA,,disco-solido-m.2,Nuevo,TRUE,,https://www.hardware-corner.net/wp-content/uploads/ssd/Team-MS30.jpg
+e_61,Disco Solido Lenovo 512Gb Ln860 M.2 3500Mbs Pcie 3.0,,disco-solido-m.2,Nuevo,TRUE,,https://www.idcmayoristas.com/wp-content/uploads/2024/10/Disco-Solido-512gb-Wester-Digital-007885.png
+e_62,Western Digital Blue 500Gb M.2 NVMe Pcie Sn550,,disco-solido-m.2,Nuevo,TRUE,,https://bluearm.ph/cdn/shop/files/42_13f14298-e3c5-4992-bde1-f24bdbc6335f.jpg?v=1697866368
+e_64,Disco Solido Hiksemi 512Gb Wave NVMe M.2 Pcie3.0 2280Mb/S,,disco-solido-m.2,Nuevo,TRUE,,https://informatics-dz.com/wp-content/uploads/2024/09/HIKSEMI-Wave-Series-512GB-NVMe-SSD--1024x1024.jpg
+e_65,Wester Digital Blue 1Tb M2 Sn550 NVMe Express 2400Mbs,,disco-solido-m.2,Nuevo,TRUE,,https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=275370597630726
+e_66,Disco Solido Hiksemi 512Gb M.2 Wave Pro Pcie3.0 3500Mb/S,,disco-solido-m.2,Nuevo,TRUE,,https://www.ipohonline.biz/image/ipohonline/image/data/all_product_images/product-5927/ssd-hiksemi-wave-pro-512gb-010.jpg
+e_67,Gigabyte 512Gb M.2 NVMe SSD 2280,,disco-solido-m.2,Nuevo,TRUE,,https://trivico.la/images/products/detail/SSD-M.2-2280-NVME-2Tb-PCIe-Gen3-x4-Lexar-NM610-PRO-DTD814.jpg
+e_68,Crusial 500Gb M.2 NVMe P5,,disco-solido-m.2,Nuevo,TRUE,,https://files.pccasegear.com/images/1593559576-CT500P5SSD8-thb.jpg
+e_69,Western Digital Green 500Gb M.2 Sn3000 Sandisk NVMe SSD M.2 2280 Mb/5000 Pcie 4.0,,disco-solido-m.2,Nuevo,TRUE,,https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/internal-storage/wd-green-sn3000-nvme-ssd/gallery/wd-green-sn3000-nvme-ssd-left.png
+e_70,Kingston 1Tb Nv3 M.2 Pcie4.0 NVMe 6000Mb/S,,disco-solido-m.2,Nuevo,TRUE,,https://informatics-dz.com/wp-content/uploads/2024/12/Kingston-NV3-1TB-PCIe-Gen-4.0-NVMe-SSD-scaled.webp
+e_71,Western Digital Green 2Tb SATA SSD,,disco-solido-sata,Nuevo,TRUE,,https://ssd-tester.com/screenshots/539_western_digital_wd_green_2tb_AS-SSD-Kompression.png
+e_73,HP 500Gb SSD S700 2.5 SATA 6.0Gb/S 560Mb/S,,disco-solido-sata,Nuevo,TRUE,,https://www.originalstorebd.com/backend/uploads/product/404551.jpg
+e_74,Disco Solido Lenovo 240Gb Ls800 Sata3.0 2.5 520/500Mbs,,disco-solido-sata,Nuevo,TRUE,,https://www.idcmayoristas.com/wp-content/uploads/2025/01/disco-solido-256gb-dato-sd700-sata3-2-5-6gb-s-009714-laptops-quito.png
+e_76,Hyundai 1Tb SATA Iii Drive 3D Tlc 10X Faster 7200Rpm HDD 560/530 Mb/S,,disco-solido-sata,Nuevo,TRUE,,https://i5.walmartimages.com/seo/Hyundai-1TB-Internal-SSD-2-5-SATA-III-TLC-Read-speed-560MB-s-Write-speed-530MB-s_aa0dd749-85f5-48e3-bd08-b46db44ce93b.0595b7a1559a56fbcba7c0873312f48a.jpeg
+e_77,Adata 480Gb Su630 2.5'' SATA 6Gb/S,,disco-solido-sata,Nuevo,TRUE,,https://5.imimg.com/data5/SELLER/Default/2021/11/TZ/AC/BM/141417483/480-gb-ssd-sata-adata-jpeg-500x500.jpeg
+e_78,Dato 256Gb Ds700 SATA 3Gb/S Ultra Slim 500/535Mb/S,,disco-solido-sata,Nuevo,TRUE,,https://www.idcmayoristas.com/wp-content/uploads/2025/01/disco-solido-256gb-dato-sd700-sata3-2-5-6gb-s-009714-laptops-quito.png
+e_79,Pny 240Gb Cs900 2.5 SATA,,disco-solido-sata,Nuevo,TRUE,,https://www.pny.com/productimages/6AF1587F-CB91-44FA-BFA4-AC4B009F99CC/images/PNY-SSD-CS900-M.2-SATA-fr.png
+e_80,Adata 256Gb Su650 2.5'' SATA 6Gb/S,,disco-solido-sata,Nuevo,TRUE,,https://media.e-valy.com/cms/products/images/d27ea30c-9e74-43a2-b9cc-f08ad3e51f6a?h=1000&w=1000
+e_81,HP 1Tb SSD S700 2.5 SATA 6.0Gb/S 525-570Mb/S,,disco-solido-sata,Nuevo,TRUE,,https://inbundela.com/wp-content/uploads/2023/11/HP-INTERNAL-SSD-1TB-SATA.png
+e_82,Hiksemi 512Gb SSD Wave Sata3.0 6Gb/S,,disco-solido-sata,Nuevo,TRUE,,https://sweetloot.my/wp-content/uploads/2025/12/hiksemi-wave-series-feature-1-800x800.jpg
+e_83,Hiksemi 1Tb Wave SSD Sata3.0 6Gb/S 1024Gb,,disco-solido-sata,Nuevo,TRUE,,https://sweetloot.my/wp-content/uploads/2025/12/hiksemi-wave-series-feature-1-800x800.jpg
+e_84,Adata 512Gb Su650 2.5'' SATA 6Gb/S,,disco-solido-sata,Nuevo,TRUE,,https://whilegeek.com/wp-content/uploads/2024/11/eezepc-1.png
+e_85,Toshiba 500Gb Laptop HDD SATA 8Mb 2.5,,discos-duros,Nuevo,TRUE,,https://innovative.co.zw/wp-content/uploads/2021/06/17-MQ01ABF050-600x600.png
+e_87,Western Digital Blue 1Tb HDD SATA Iii PC 7200Rpm,,discos-duros,Nuevo,TRUE,,https://netcodex.ph/wp-content/uploads/2023/03/WD10EZEX.png
+e_89,Toshiba 4Tb S300 Pro SATA 6.0Gbit/S Interno,,discos-duros,Nuevo,TRUE,,https://cdn.wasserman.eu/generated/images/s960/3978961/toshiba-s300-surveillance-4tb-sata
+e_90,Seagate HDD 1000Gb 1Tb SATA Iii,,discos-duros,Nuevo,TRUE,,"https://www.jawa.gg/images/production-listing-ffe062b80275dc4e07547c2960834ea0/width=2048,quality=75,format=auto,dpr=auto,height=1536,fit=crop"
+e_116,Fuente De Poder Antryx 850W Kirin Gold Lite 80Plus Gold,,fuentes-de-poder,Nuevo,TRUE,,https://www.infotec.com.pe/97506-large_default/fuente-de-poder-antryx-850w-kirin-gold-lite-gpw850s-80plus-gold.jpg
+e_118,Halion Gaming 650W Model:Ge-650 Silent 12Cm Powerful,,fuentes-de-poder,Nuevo,TRUE,,https://fbi.cults3d.com/uploaders/35822392/illustration-file/ee3000e1-7f60-4eb3-b7cf-0749390a845e/parlante-2-hd.jpg
+e_119,Fuente De Poder Antryx Kirin V2 750W 80Plus Bronze Kb750,,fuentes-de-poder,Nuevo,TRUE,,https://www.antryx.com/wp-content/uploads/2025/05/kirin-gold-lite-750-06.png
+e_121,Fuente De Poder Antryx Kirin 750W Gold Evo 80Plus Gold Pcie Gen5 Atx3.1,,fuentes-de-poder,Nuevo,TRUE,,https://coolboxpe.vtexassets.com/arquivos/ids/372719/1063_2.jpg?v=638545205950630000
+e_122,Gamemax 750W Gp Performance Black Bronze Gold 80Plus Atx 12V 12/14Fan,,fuentes-de-poder,Nuevo,TRUE,,https://cdn.box.co.uk/catalog/product/0/a/0a719909bfd3944325e2025f36026bbf.jpg
+e_123,Fuente De Pdoer Antec 750W Atom B750 80Plus Bronze,,fuentes-de-poder,Nuevo,TRUE,,https://cdn.memorykings.pe/files/2025/01/07/350429-MK037276H.jpg
+e_124,Gigabyte P650Ss Ice 650W 80Plus Silver White/Blanco,,fuentes-de-poder,Nuevo,TRUE,,https://cdn0.centrecom.com.au/images/upload/0224756_0.jpeg
+e_125,Gamemax 650W Gp Performance Black Bronze Gold 80Plus Atx 12V,,fuentes-de-poder,Nuevo,TRUE,,https://www.dekada.com/images/gamemax_gp_650_bk_01_na4pQd.webp
+e_126,Fuente De Poder Antryx Kirin Platinum 1200W 80Plus Platinum Pcie Gen5 Atx3.1,,fuentes-de-poder,Nuevo,TRUE,,https://tecwareperu.pe/2336-large_default/fuente-de-poder-antryx-1200w-kirin-evo-ii-80-plus-gold-modular-pcie-50.jpg
+e_127,Fuente De Poder Msi Mag A750Bn Pcie5 80Plus Bronze Pcie5.0,,fuentes-de-poder,Nuevo,TRUE,,https://www.sercoplus.com/56237-medium_default/fuente-de-poder-msi-mag-750bn-pcie5-80.jpg
+e_128,Gigabyte Ud850Gm 850W 80Plus Gold Full Modular White/Blanco,,fuentes-de-poder,Nuevo,TRUE,,https://down-ph.img.susercontent.com/file/ph-11134207-7r98v-lmd182dtzjzl83
+e_129,Fuente De Poder Antryx 750W Kirin Gold Lite 80Plus Gold,,fuentes-de-poder,Nuevo,TRUE,,https://www.infotec.com.pe/97506-large_default/fuente-de-poder-antryx-850w-kirin-gold-lite-gpw850s-80plus-gold.jpg
+e_91,Xpg 32Gb 5600Mhz DDR5 Lancer Blade Cl46 Blanco,,memoria-ram-pc,Nuevo,TRUE,,https://webapi3.adata.com/storage/product/product_page_kv_desktop_xpg_lancer_blade_1920x1080.jpg
+e_92,Memoria RAM Dato Ares-Armor 16Gb 3200Mhz (1X16) DDR4 Rgb,,memoria-ram-pc,Nuevo,TRUE,,https://cf.shopee.com.my/file/ceb59d6ce621bb3537667ad6c14ff3e9
+e_94,Memoria RAM Kingston Fury Beast 16Gb 5600Mhz,,memoria-ram-pc,Nuevo,TRUE,,https://www.custompc.com/wp-content/sites/custompc/2023/04/Kingston-Fury-Beast-RGB-DDR5.jpg
+e_95,Memoria RAM Crucial Micron 16Gb 4800Mhz DDR5 Udimm Basics Cl40,,memoria-ram-pc,Nuevo,TRUE,,https://www.elit.com.ar/_next/image?url=https:%2F%2Fimages.elit.com.ar%2Fp%2F16864%2Fi%2FI2wG0_m.webp&w=1080&q=75
+e_96,Memoria RAM Hiksemi Hiker 16Gb 5600Mhz DDR5,,memoria-ram-pc,Nuevo,TRUE,,https://static3.webx.pk/files/4012/Images/hiker-hikvision-4012-0-111225095720936.webp
+e_98,Hiksemi Armor 16Gb 3200Mhz DDR4 White,,memoria-ram-pc,Nuevo,TRUE,,https://ryans.com/storage/products/main/hiksemi-armor-16gb-ddr4-3200mhz-black-heatsink-21726391221.webp
+e_99,Patriot Viper 16Gb 6000Mt/S DDR5 Cl30 1.35V 9De00398,,memoria-ram-pc,Nuevo,TRUE,,https://media.pangoly.com/img/c/f/3/e/cf3e11f4-645c-4b86-8aa3-3d0ac1af4f76.jpg
+e_100,Memoria RAM Kingston Fury 16Gb 3200Mhz DDR4 Cl16,,memoria-ram-pc,Nuevo,TRUE,,https://www.idcmayoristas.com/wp-content/uploads/2024/10/memoria-ram-ddr4-dimm-8gb-pc-3200-kingston-007500-laptops-quito-1.png
+e_101,Memoria RAM Teros Titan 16Gb 5600Mhz DDR5 Pc5-44800 Cl45,,memoria-ram-pc,Nuevo,TRUE,,https://store.teslards.pe/wp-content/uploads/2025/08/me8gtet32und4.jpg
+e_102,Hiksemi Armor 8Gb 3200Mhz DDR4 White,,memoria-ram-pc,Nuevo,TRUE,,https://img.lazcdn.com/g/p/d465baae0034620feeac13b13516dc06.png_720x720q80.png
+e_103,Memoria RAM Hiksemi Armor 16Gb 2666Mhz DDR4 Gold,,memoria-ram-pc,Nuevo,TRUE,,https://avantechgroup.com.pe/3500-large_default/memoria-ram-hiksemi-16gb-armor-ddr4-3200-white.jpg
+e_104,Memoria RAM T-Force Vulcan Teamgroup 16Gb 6000Mhz DDR5,,memoria-ram-pc,Nuevo,TRUE,,https://www.idcmayoristas.com/wp-content/uploads/2024/10/memoria-ram-ddr4-dimm-8gb-pc-3200-kingston-007500-laptops-quito-1.png
+e_4,Monitor LG 27 G6 Ultragear 27G610A-B 2K Qhd Ips 200Mhz 1Ms Srgb 99% Pivot Hdmi/Hdmi/Dp,,monitores,Nuevo,TRUE,,https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800
+e_16,Monitor LG 27 G6 Ultragear 27G610A-B 2K Qhd Ips 200Mhz 1Ms Srgb 99% Pivot Hdmi/Hdmi/Dp,,monitores,Nuevo,TRUE,,https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800
+e_34,Monitor LG 27 G6 Ultragear 27G610A-B 2K Qhd Ips 200Mhz 1Ms Srgb 99% Pivot Hdmi/Hdmi/Dp,,monitores,Nuevo,TRUE,,https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800
+e_44,Monitor LG 27 G6 Ultragear 27G610A-B 2K Qhd Ips 200Mhz 1Ms Srgb 99% Pivot Hdmi/Hdmi/Dp,,monitores,Nuevo,TRUE,,https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800
+e_59,Monitor LG 27 G6 Ultragear 27G610A-B 2K Qhd Ips 200Mhz 1Ms Srgb 99% Pivot Hdmi/Hdmi/Dp,,monitores,Nuevo,TRUE,,https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800
+e_72,Monitor LG 27 G6 Ultragear 27G610A-B 2K Qhd Ips 200Mhz 1Ms Srgb 99% Pivot Hdmi/Hdmi/Dp,,monitores,Nuevo,TRUE,,https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800
+e_86,Monitor LG 27 G6 Ultragear 27G610A-B 2K Qhd Ips 200Mhz 1Ms Srgb 99% Pivot Hdmi/Hdmi/Dp,,monitores,Nuevo,TRUE,,https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800
+e_93,Monitor LG 27 G6 Ultragear 27G610A-B 2K Qhd Ips 200Mhz 1Ms Srgb 99% Pivot Hdmi/Hdmi/Dp,,monitores,Nuevo,TRUE,,https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800
+e_108,Monitor LG 27 G6 Ultragear 27G610A-B 2K Qhd Ips 200Mhz 1Ms Srgb 99% Pivot Hdmi/Hdmi/Dp,,monitores,Nuevo,TRUE,,https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800
+e_117,Monitor LG 27 G6 Ultragear 27G610A-B 2K Qhd Ips 200Mhz 1Ms Srgb 99% Pivot Hdmi/Hdmi/Dp,,monitores,Nuevo,TRUE,,https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800
+e_29,Asus Rog Strix B650E-F Gaming Wifi AMD 4Xddr5 3Xm.2 2Xtipoc Wifie6/Bluetooth Hdmi/Dp,,placas-amd,Nuevo,TRUE,,https://dlcdnwebimgs.asus.com/files/media/42CF69C2-D16A-449F-A113-E7AB3C57AEE7/v1/img/style/id-design.png
+e_30,Asus Tuf Gaming B550-Plus Wifi Ii AMD 4Xddr4 2Xm.2 1Xtipoc Wifi6/Bluetooth Argb Gen2 Hdmi/Dp,,placas-amd,Nuevo,TRUE,,https://dlcdnimgs.asus.com/websites/global/products/bvceys3w8ug0apoa/img/spec/spec-pc.png
+e_31,Asus Prime B650M-F AMD 2Xddr5 1Xm.2 Argb Gen2 Am5 Hdmi,,placas-amd,Nuevo,TRUE,,https://dlcdnwebimgs.asus.com/gain/2af88015-d002-4cdf-868b-74738430b261/
+e_32,Msi B650M Gaming Plus Wifi Drr5 Am5 4Xddr5 2Xm.2 1Xtc Wifi6E/Bluetooth Dp/Hdmi,,placas-amd,Nuevo,TRUE,,https://asset.msi.com/resize/image/global/product/product_1681456847b0ea0e25f792d9f157c17bc8df9db04a.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png
+e_33,Asus Prime B650M-A Ak6 Ii 4Xddr5 2Xm.2 Wifi6/Bluetooth 1Xtc Pcie5.0 Dp/Hdmi,,placas-amd,Nuevo,TRUE,,https://dlcdnwebimgs.asus.com/gain/2af88015-d002-4cdf-868b-74738430b261/
+e_35,Asrock A620M-Hdv/M.2 2Xddr5 2Xm.2 1Xtc Am5 Hdmi/Dp,,placas-amd,Nuevo,TRUE,,https://www.asrock.com.tw/mb/photo/A620M-HDVP(L1).png
+e_36,Msi Pro B840M-P Wifi6E Ai PC 4Xddr5 2Xm.2 1Xtypc AMD Socket Am5 Hdmi,,placas-amd,Nuevo,TRUE,,https://asset.msi.com/resize/image/global/product/product_17476221275ccfae40673ad764647d652d7008c58b.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png
+e_38,Gigabyte A520M K V2 Ultra Durable 2Xddr4 1Xm.2 Pcie Gen3 X4 AMD Hdmi/Vga,,placas-amd,Nuevo,TRUE,,https://www.picclickimg.com/sNsAAeSwdMtooXlI/Gigabyte-A520M-K-V2-Ultra-Durable-AMD-AM4.webp
+e_39,Placa Gigabyte B650M D3Hp Ax AMD Am5 4Xddr5 2Xm.2 1Xtc Wifi/Bluetooth Hdmi/Dp/Dp,,placas-amd,Nuevo,TRUE,,https://ecommerce.datablitz.com.ph/cdn/shop/files/a6f7f32b-fc71-4788-8d65-731e467eca22_800x.jpg?v=1711601420
+e_40,Msi B650 Gaming Plus Wifi AMD 4Xddr5 2Xm.2 1Xtypec Gen4 Am5 Wifi6E/Bluetooth5.3 Dp/Hdmi,,placas-amd,Nuevo,TRUE,,https://asset.msi.com/resize/image/global/product/product_1681456849c61615731d2d6db5cbf89a990dab7653.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png
+e_41,Asus Prime A620M-K DDR5 AMD 2Xddr5 1Xm.2 Pcie4.0 Argb Gen2 Hdmi/Vga,,placas-amd,Nuevo,TRUE,,https://dlcdnwebimgs.asus.com/files/media/74ca4a31-bfba-4b8d-8257-f7d8e3cd694b/img/kv/kv_pd_light.png
+e_42,Placa Gigabyte B650M H Am5 2Xddr5 1Xm.2 Hdmi/Dp,,placas-amd,Nuevo,TRUE,,https://www.gigabyte.com/FileUpload/Global/KeyFeature/2458/innergigabyteimages/kf-img.png
+e_43,Msi Z890 Gaming Plus Wifi 4Xddr5 4Xm.2 2Xtypec Wifi7/Bluetooth5.4 Hdmi/Dp,,placas-intel,Nuevo,TRUE,,https://asset.msi.com/resize/image/global/product/product_17284660487252a926316ed823e44502d6481387fe.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png
+e_45,Asus Prime H610M-K 2Xddr5 1Xm.2 Intel Lga1700 Hdmi/Vga,,placas-intel,Nuevo,TRUE,,https://dlcdnwebimgs.asus.com/gain/eb6af592-21fd-4592-81f3-d342cf769939/
+e_46,Msi B760M Gaming Plus Wifi Gen4 Intel Wifi6E/Bluetooth5.3 4Xddr5 2Xm.2 Hdmi/Hdmi/Dp/Dp,,placas-intel,Nuevo,TRUE,,https://asset.msi.com/resize/image/global/product/product_1681119032ad3897f62e91d9c4d3803c2413d1d520.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png
+e_48,Gigabyte B760M Gaming Plus Wifi DDR4 Intel 4Xddr4 2Xm.2 Wifi/Bluetooth Lga1700 Hdmi/Dp,,placas-intel,Nuevo,TRUE,,https://m.media-amazon.com/images/I/81pSTc-GhVL.jpg
+e_49,Placa Aorus Z890M Aorus Elite Wifi7 Intel Lga1851 Pcie5 Wifi/Bluetooth 4Xddr5 3Xm.2 1Xtypec Dp,,placas-intel,Nuevo,TRUE,,https://www.gigabyte.com/FileUpload/Global/KeyFeature/3790/innergigabyte/images/product/connectivity.png
+e_50,Placa Msi Pro B760M-E Intel 2Xddr5 1Xm.2 Lga1700 Hdmi/Vga,,placas-intel,Nuevo,TRUE,,https://storage-asset.msi.com/global/picture/image/feature/mb/Pro_B760M/PRO_B760M-P/pro_b760m-p-cooling-overview.png
+e_51,Placa Gigabyte B760M D3Hp 4Xddr5 2Xm.2 Lga1700 Intel Hdmi/Vga/Dp,,placas-intel,Nuevo,TRUE,,https://microless.com/cdn/products/a58ef62a6a29d48b6a1a14a7c29407ff-hi.jpg
+e_52,Asus Prime H610M-F D4 R2.0 Intel Lga1700 2Xddr4 1Xm.2 Hdmi,,placas-intel,Nuevo,TRUE,,https://dlcdnwebimgs.asus.com/gain/eb6af592-21fd-4592-81f3-d342cf769939/
+e_53,Asus Prime H510M-R R2.0 Intel Lga1200 Pcie4.0 2Xddr4 Hdmi/Vga,,placas-intel,Nuevo,TRUE,,https://dlcdnimgs.asus.com/websites/global/products/jvdui6h4p7bnoumd/intro-main.png
+e_54,Gigabyte H610M K V2 2Xddr5 1Xm.2 Ultra Durable Lga1700 Hdmi/Dp,,placas-intel,Nuevo,TRUE,,https://www.gigabyte.com/FileUpload/Global/KeyFeature/2400/innergigabyteimages/spec.png
+e_55,Placa Msi Pro B760M-E DDR4 Intel Lga1700 2Xddr4 1Xm.2 Hdmi/Vga,,placas-intel,Nuevo,TRUE,,https://storage-asset.msi.com/global/picture/image/feature/mb/Pro_B760M/PRO_B760M-P/pro_b760m-p-cooling-overview.png
+e_56,Asus Tuf Gaming B760M-Btf Wifi 4Xddr5 2Xm.2 Pcie5.0 Lga1700 Argb Gen2 Wifi6/Bluetooth Hdmi/Dp,,placas-intel,Nuevo,TRUE,,https://dlcdnwebimgs.asus.com/gain/bbe169d6-ee09-43c8-aaac-b01940d35422/w800
+e_1,Ryzen 5 8400F 4.7Ghz/4.2Ghz - 20Mb Cache - 6 Núcleos - 12 Hilos / Sin Gráfico,,procesador-amd,Nuevo,TRUE,,https://static.hardwaredb.net/products/amd-ryzen-5-8400f.jpg
+e_2,AMD Ryzen 7 9700X 3.8Ghz/5.5Ghz - 40Mb Cache - 8 Núcleos / Con Gráficos / Sin Cooler,,procesador-amd,Nuevo,TRUE,,https://cdn.mos.cms.futurecdn.net/FeMqKmi3vJAwste8dj2QKg.jpg
+e_3,AMD Ryzen 9 9900X 4.4Ghz/5.6Ghz - 64Mb Cache / 12 Núcleos / Con Gráfico / Sin Cooler,,procesador-amd,Nuevo,TRUE,,https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2613900-ryzen-9-9950x.jpg
+e_5,AMD Ryzen 7 8700G 4.2Ghz/5.1Ghz - 16Mb Cache - 8 Núcleos / Graficos Radeon Integrados,,procesador-amd,Nuevo,TRUE,,https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-8700g.jpg
+e_6,AMD Ryzen 7 7700X W/Radeon 8Core 4.5Ghz Base,,procesador-amd,Nuevo,TRUE,,"https://res.cloudinary.com/jawa/image/upload/f_auto,ar_5:4,c_fill,w_3840,q_auto/production/listings/qnwnjburagpk62leblpa"
+e_8,Athlon 3000G AMD 3.5Ghz - 5Mb Cache - 2 Núcleos / Gráfico Radeon Integrado,,procesador-amd,Nuevo,TRUE,,https://cpu-comparison.com/images/cpus/amd-athlon-3000g.png
+e_9,Ryzen 7 5700 AMD 3.7Ghz/4.6Ghz - 20Mb Cache - 8Core 16Thread,,procesador-amd,Nuevo,TRUE,,https://elbadrgroupeg.store/image/cache/catalog/amd/OJnySC5zxXCYYlg6Da6pAjijH8KKNTEzppLYSuW8v0d-1000x1000.png
+e_10,AMD Ryzen 5 3600 6 Core 4.2Ghz / 3.6Ghz Base,,procesador-amd,Nuevo,TRUE,,https://www.xpert.mt/images/thumbs/0006131_amd-ryzen-5-3600-6-core-box_500.png
+e_11,Ryzen 5 5600Gt AMD 3.6Ghz/4.6Ghz - 19Mb Cache - 6 Núcleos,,procesador-amd,Nuevo,TRUE,,https://www.idcmayoristas.com/wp-content/uploads/2024/10/proc-amd-am4-ryzen-5-5600gt-3-6ghz-100-100001488box-tcws-1.png
+e_12,AMD Ryzen 5 8500G 3.5Ghz/5.0Ghz - 22Mb Cache,,procesador-amd,Nuevo,TRUE,,https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-5-8500g.jpg
+e_13,Ryzen 5 5600X AMD 3.7Ghz/4.6Ghz - 35Mb Cache - 6 Núcleos / Sin Gráfico,,procesador-amd,Nuevo,TRUE,,https://64.media.tumblr.com/d16f2093a043fc9909869fded692e503/ee2495e00597ee22-5c/s1280x1920/e9fddca09bf37b785906db5374da737cb3e2c685.jpg
+e_14,AMD Ryzen 7 8700F 4.1Ghz/5.0Ghz - 16Mb Cache - 8 Núcleos / Sin Gráfico,,procesador-amd,Nuevo,TRUE,,https://blossomzones.com/wp-content/uploads/2024/05/8700F.jpg
+e_15,Intel Core i3 9100 Lga1151 3.6Ghz 6Mb Cache,,procesador-intel,Nuevo,TRUE,,https://www.originalstorebd.com/backend/uploads/product/989051.jpeg
+e_17,Intel® Core™ i5 14400F Lga1700 2.5Ghz/4.7Ghz - 20Mb Cache - 10 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://www.custompc.com/wp-content/sites/custompc/2023/11/intel-core-i5-14400f-mockup.jpg
+e_19,Intel® Core™ i5 14400 Lga1700 2.5Ghz/4.7Ghz - 20Mb Cache - 10 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://www.custompc.com/wp-content/sites/custompc/2023/11/intel-core-i5-14400f-mockup.jpg
+e_20,Intel® Core™ i3 13100F Lga1700 3.40Ghz/4.50Ghz - 12Mb Cache - 4 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://content.leadermarketing.com.au/assets/uploads/Intel/BX8071513100F/Intel-Core-i3-13100F-001.jpg
+e_21,Intel® Core™ i3 12100 Lga1700 3.30Ghz/4.30Ghz - 12Mb Cache - 4 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://epicrigs.co.za/wp-content/uploads/2024/09/PCB_UPK_06_wr_02.jpeg
+e_22,Intel® Core™ i3 10100F Lga1200 3.6Ghz/4.30Ghz - 6Mb Cache - 4 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://mt-tecno.com/wp-content/uploads/2024/02/19c1482d6f72a8c2d895af4578496452.jpg
+e_23,Intel® Core™ Ultra 7 265K Lga1851 3.9Ghz/5.5Ghz - 30Mb Cache - 20 Núcleos,,procesador-intel,Nuevo,TRUE,,https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/10/intel-core-ultra-7-265k-installed-angle.jpg
+e_24,Intel® Core™ i3 12100F Lga1700 3.30Ghz/4.30Ghz - 12Mb Cache - 4 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://cdn1.youla.io/files/images/780_780/65/fb/65fbdc297f3cc0977b08578e-2.jpg
+e_25,Intel® Core™ i3 13100 Lga1700 3.40Ghz/4.50Ghz - 12Mb Cache - 4 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://cdn.mos.cms.futurecdn.net/zsfUpDxdHdoJS22ifn9EoX.jpg
+e_26,Intel® Core™ i5 12400 Oem Lga1700 2.50Ghz/4.40Ghz - 18Mb Cache - 6 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://img.lazcdn.com/g/p/882e9bbb169b6e62a7b51df47f89f7e9.jpg_720x720q80.jpg
+e_27,Intel® Core™ i5 11400F Lga1200 2.60Ghz/4.40Ghz - 12Mb Cache - 6 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://5.imimg.com/data5/SELLER/Default/2022/10/SC/TZ/NZ/108808690/intel-core-i5-11th-generation-cpu-processor-1000x1000.png
+e_28,Intel® Core™ Ultra 5 245Kf Lga1851 4.2Ghz/5.20Ghz - 24Mb Cache - 14 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://media.pangoly.com/img/f/5/6/5/f56520ff-539e-4d51-87ee-fdb3ababb43b.jpg

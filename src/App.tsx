@@ -56,9 +56,21 @@ export default function App() {
     ? productList.filter(p => p.category !== 'promociones')
     : productList.filter(p => p.category === selectedCategory);
 
+  const uniqueCategories = Array.from(new Set<string>(productList.filter(p => p.category !== 'promociones').map(p => p.category)));
+
+  const groupedProducts = selectedCategory === 'all'
+    ? filteredProducts.reduce((acc, p) => {
+        const cat = p.category;
+        if (!acc[cat]) acc[cat] = [];
+        acc[cat].push(p);
+        return acc;
+      }, {} as Record<string, Product[]>)
+    : { [selectedCategory]: filteredProducts };
+
   return (
     <div className="min-h-screen bg-slate-50 font-sans text-slate-900 flex flex-col">
       <Header
+        categoriesList={uniqueCategories}
         selectedCategory={selectedCategory}
         onSelectCategory={setSelectedCategory}
       />
@@ -76,11 +88,7 @@ export default function App() {
           <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="mb-8">
               <h1 className="text-3xl font-bold text-slate-900 tracking-tight">
-                {selectedCategory === 'all' && 'Todos los Productos'}
-                {selectedCategory === 'laptops-nuevas' && 'Laptops Nuevas'}
-                {selectedCategory === 'laptops-usadas' && 'Laptops Usadas'}
-                {selectedCategory === 'componentes' && 'Componentes'}
-                {selectedCategory === 'servicios' && 'Servicios de Reparación'}
+                {selectedCategory === 'all' ? 'Todos los Productos' : selectedCategory.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
               </h1>
               <p className="text-slate-500 mt-2">
                 Encuentra lo mejor en tecnología y servicios profesionales.
@@ -96,13 +104,24 @@ export default function App() {
                 <p className="text-slate-500 text-lg">No se encontraron productos en esta categoría.</p>
               </div>
             ) : (
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-                {filteredProducts.map(product => (
-                  <ProductCard
-                    key={product.id}
-                    product={product}
-                    onClick={() => setSelectedProduct(product)}
-                  />
+              <div className="space-y-16">
+                {Object.entries(groupedProducts).map(([cat, prods]) => (
+                  <div key={cat}>
+                    {selectedCategory === 'all' && (
+                      <h2 className="text-2xl font-bold text-slate-800 mb-6 border-b pb-2 uppercase tracking-wide">
+                        {cat.replace(/-/g, ' ')}
+                      </h2>
+                    )}
+                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                      {(prods as Product[]).map(product => (
+                        <ProductCard
+                          key={product.id}
+                          product={product}
+                          onClick={() => setSelectedProduct(product)}
+                        />
+                      ))}
+                    </div>
+                  </div>
                 ))}
               </div>
             )}

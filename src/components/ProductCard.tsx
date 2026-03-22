@@ -14,16 +14,13 @@ export function ProductCard({ product, onClick }: ProductCardProps) {
     >
       <div className="aspect-[4/3] overflow-hidden bg-slate-50 relative">
         <img
-          src={product.imageUrl}
+          src={product.imageUrl || 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&q=80&w=800'}
           alt={product.name}
           className="w-full h-full object-cover object-center"
           referrerPolicy="no-referrer"
         />
         <div className="absolute top-3 right-3 bg-white/90 backdrop-blur-sm px-2.5 py-1 rounded-full text-xs font-medium text-slate-700 shadow-sm border border-slate-200/50">
-          {product.category === 'laptops-nuevas' && 'Nueva'}
-          {product.category === 'laptops-usadas' && 'Usada'}
-          {product.category === 'componentes' && 'Componente'}
-          {product.category === 'servicios' && 'Servicio'}
+          {product.condition || 'Nuevo'}
         </div>
       </div>
 
