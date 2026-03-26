@@ -13,6 +13,18 @@ s2,Instalación de Sistema Operativo,0,servicios,,TRUE,Instalación limpia de Wi
 s3,Diagnóstico de Hardware,0,servicios,,TRUE,Revisión completa para detectar fallas en componentes (Se descuenta si se realiza la reparación).,
 promo1,,,promociones,,,TRUE,https://i.postimg.cc/4NXTpKDC/promo-1.jpg
 promo2,,,promociones,,,TRUE,https://i.postimg.cc/tCFzP5KD/promo-2.jpg
+e_15,Intel Core i3 9100 Lga1151 3.6Ghz 6Mb Cache,,procesador-intel,Nuevo,TRUE,,https://www.originalstorebd.com/backend/uploads/product/989051.jpeg
+e_17,Intel® Core™ i5 14400F Lga1700 2.5Ghz/4.7Ghz - 20Mb Cache - 10 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://www.custompc.com/wp-content/sites/custompc/2023/11/intel-core-i5-14400f-mockup.jpg
+e_19,Intel® Core™ i5 14400 Lga1700 2.5Ghz/4.7Ghz - 20Mb Cache - 10 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://www.custompc.com/wp-content/sites/custompc/2023/11/intel-core-i5-14400f-mockup.jpg
+e_20,Intel® Core™ i3 13100F Lga1700 3.40Ghz/4.50Ghz - 12Mb Cache - 4 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://content.leadermarketing.com.au/assets/uploads/Intel/BX8071513100F/Intel-Core-i3-13100F-001.jpg
+e_21,Intel® Core™ i3 12100 Lga1700 3.30Ghz/4.30Ghz - 12Mb Cache - 4 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://epicrigs.co.za/wp-content/uploads/2024/09/PCB_UPK_06_wr_02.jpeg
+e_22,Intel® Core™ i3 10100F Lga1200 3.6Ghz/4.30Ghz - 6Mb Cache - 4 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://mt-tecno.com/wp-content/uploads/2024/02/19c1482d6f72a8c2d895af4578496452.jpg
+e_23,Intel® Core™ Ultra 7 265K Lga1851 3.9Ghz/5.5Ghz - 30Mb Cache - 20 Núcleos,,procesador-intel,Nuevo,TRUE,,https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/10/intel-core-ultra-7-265k-installed-angle.jpg
+e_24,Intel® Core™ i3 12100F Lga1700 3.30Ghz/4.30Ghz - 12Mb Cache - 4 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://cdn1.youla.io/files/images/780_780/65/fb/65fbdc297f3cc0977b08578e-2.jpg
+e_25,Intel® Core™ i3 13100 Lga1700 3.40Ghz/4.50Ghz - 12Mb Cache - 4 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://cdn.mos.cms.futurecdn.net/zsfUpDxdHdoJS22ifn9EoX.jpg
+e_26,Intel® Core™ i5 12400 Oem Lga1700 2.50Ghz/4.40Ghz - 18Mb Cache - 6 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://img.lazcdn.com/g/p/882e9bbb169b6e62a7b51df47f89f7e9.jpg_720x720q80.jpg
+e_27,Intel® Core™ i5 11400F Lga1200 2.60Ghz/4.40Ghz - 12Mb Cache - 6 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://5.imimg.com/data5/SELLER/Default/2022/10/SC/TZ/NZ/108808690/intel-core-i5-11th-generation-cpu-processor-1000x1000.png
+e_28,Intel® Core™ Ultra 5 245Kf Lga1851 4.2Ghz/5.20Ghz - 24Mb Cache - 14 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://media.pangoly.com/img/f/5/6/5/f56520ff-539e-4d51-87ee-fdb3ababb43b.jpg
 e_57,Lexar 1Tb Nq780 M.2 2280 NVMe 6500Mb/S Gen4X4,,disco-solido-m.2,Nuevo,TRUE,,https://trondtech.au/wp-content/uploads/2025/07/Lexar-NQ780-1TB-600x800.webp
 e_58,Dato 256Gb Dp700 M.2 2280 NVMe Gen3X4 Pcie SSD 2500/1700Mb/S NVMe,,disco-solido-m.2,Nuevo,TRUE,,https://media.takealot.com/covers_images/c46cf6267a7549b2a779898fb8fdfec1/s-zoom.file
 e_60,Team Group 256Gb Ms30 SSD Sata3 6Gb/S M.2 SATA,,disco-solido-m.2,Nuevo,TRUE,,https://www.hardware-corner.net/wp-content/uploads/ssd/Team-MS30.jpg
@@ -111,15 +123,3 @@ e_11,Ryzen 5 5600Gt AMD 3.6Ghz/4.6Ghz - 19Mb Cache - 6 Núcleos,,procesador-amd,
 e_12,AMD Ryzen 5 8500G 3.5Ghz/5.0Ghz - 22Mb Cache,,procesador-amd,Nuevo,TRUE,,https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-5-8500g.jpg
 e_13,Ryzen 5 5600X AMD 3.7Ghz/4.6Ghz - 35Mb Cache - 6 Núcleos / Sin Gráfico,,procesador-amd,Nuevo,TRUE,,https://64.media.tumblr.com/d16f2093a043fc9909869fded692e503/ee2495e00597ee22-5c/s1280x1920/e9fddca09bf37b785906db5374da737cb3e2c685.jpg
 e_14,AMD Ryzen 7 8700F 4.1Ghz/5.0Ghz - 16Mb Cache - 8 Núcleos / Sin Gráfico,,procesador-amd,Nuevo,TRUE,,https://blossomzones.com/wp-content/uploads/2024/05/8700F.jpg
-e_15,Intel Core i3 9100 Lga1151 3.6Ghz 6Mb Cache,,procesador-intel,Nuevo,TRUE,,https://www.originalstorebd.com/backend/uploads/product/989051.jpeg
-e_17,Intel® Core™ i5 14400F Lga1700 2.5Ghz/4.7Ghz - 20Mb Cache - 10 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://www.custompc.com/wp-content/sites/custompc/2023/11/intel-core-i5-14400f-mockup.jpg
-e_19,Intel® Core™ i5 14400 Lga1700 2.5Ghz/4.7Ghz - 20Mb Cache - 10 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://www.custompc.com/wp-content/sites/custompc/2023/11/intel-core-i5-14400f-mockup.jpg
-e_20,Intel® Core™ i3 13100F Lga1700 3.40Ghz/4.50Ghz - 12Mb Cache - 4 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://content.leadermarketing.com.au/assets/uploads/Intel/BX8071513100F/Intel-Core-i3-13100F-001.jpg
-e_21,Intel® Core™ i3 12100 Lga1700 3.30Ghz/4.30Ghz - 12Mb Cache - 4 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://epicrigs.co.za/wp-content/uploads/2024/09/PCB_UPK_06_wr_02.jpeg
-e_22,Intel® Core™ i3 10100F Lga1200 3.6Ghz/4.30Ghz - 6Mb Cache - 4 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://mt-tecno.com/wp-content/uploads/2024/02/19c1482d6f72a8c2d895af4578496452.jpg
-e_23,Intel® Core™ Ultra 7 265K Lga1851 3.9Ghz/5.5Ghz - 30Mb Cache - 20 Núcleos,,procesador-intel,Nuevo,TRUE,,https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/10/intel-core-ultra-7-265k-installed-angle.jpg
-e_24,Intel® Core™ i3 12100F Lga1700 3.30Ghz/4.30Ghz - 12Mb Cache - 4 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://cdn1.youla.io/files/images/780_780/65/fb/65fbdc297f3cc0977b08578e-2.jpg
-e_25,Intel® Core™ i3 13100 Lga1700 3.40Ghz/4.50Ghz - 12Mb Cache - 4 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://cdn.mos.cms.futurecdn.net/zsfUpDxdHdoJS22ifn9EoX.jpg
-e_26,Intel® Core™ i5 12400 Oem Lga1700 2.50Ghz/4.40Ghz - 18Mb Cache - 6 Núcleos / Gráfico Integrado,,procesador-intel,Nuevo,TRUE,,https://img.lazcdn.com/g/p/882e9bbb169b6e62a7b51df47f89f7e9.jpg_720x720q80.jpg
-e_27,Intel® Core™ i5 11400F Lga1200 2.60Ghz/4.40Ghz - 12Mb Cache - 6 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://5.imimg.com/data5/SELLER/Default/2022/10/SC/TZ/NZ/108808690/intel-core-i5-11th-generation-cpu-processor-1000x1000.png
-e_28,Intel® Core™ Ultra 5 245Kf Lga1851 4.2Ghz/5.20Ghz - 24Mb Cache - 14 Núcleos / Sin Gráfico,,procesador-intel,Nuevo,TRUE,,https://media.pangoly.com/img/f/5/6/5/f56520ff-539e-4d51-87ee-fdb3ababb43b.jpg
